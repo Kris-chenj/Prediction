@@ -1,0 +1,878 @@
+,Row,Anon Student Id,Problem Hierarchy,Problem Name,Problem View,Step Name,Step Start Time,First Transaction Time,Correct Transaction Time,Step End Time,Step Duration (sec),Correct Step Duration (sec),Error Step Duration (sec),Correct First Attempt,Incorrects,Hints,Corrects,KC(Default),Opportunity(Default)
+14,21616,8o0mJnIpFH,"Unit CTA1_06, Section CTA1_06-3",JAN05,2,R5C1,,,,,,,,0.0,,,,Using simple numbers,24.0
+15,22178,8o0mJnIpFH,"Unit ES_03, Section ES_03-6",EG51A,2,constant termsR2,,,,,,,,1.0,,,,-1,
+16,22320,8o0mJnIpFH,"Unit CTA1_08, Section CTA1_08-2",FEB03,1,yMin,,,,,,,,1.0,,,,Changing axis bounds,98.0
+17,22862,8o0mJnIpFH,"Unit ES_04, Section ES_04-15",LIT58,1,7+y*(b+n) = r+f,,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",70.0
+18,23277,8o0mJnIpFH,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R3C2,,,,,,,,0.0,,,,Using simple numbers,78.0
+19,23522,8o0mJnIpFH,"Unit ES_07, Section ES_07-4",LIT63A,1,n*t-h*r = c*j+z*n,,,,,,,,0.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",228.0
+20,23621,8o0mJnIpFH,"Unit CTA1_12, Section CTA1_12-2",SYS03,1,R3C3,,,,,,,,0.0,,,,Using simple numbers,94.0
+21,35682,g209g5Vve6,"Unit CTA1_08, Section CTA1_08-3",REAL37,1,Slope Field 1,,,,,,,,1.0,,,,Entering the slope,20.0
+22,36252,g209g5Vve6,"Unit ES_04, Section ES_04-14",LIT23A,1,(n*j+56)/n = r/n,,,,,,,,0.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],28.0
+23,36745,g209g5Vve6,"Unit CTA1_10, Section CTA1_10-4",DIST02_SP,1,ValidEquations,,,,,,,,1.0,,,,-1,
+24,37170,g209g5Vve6,"Unit ES_07, Section ES_07-4",LIT65A,2,(h*q-n*t)/(s+m) = k*(s+m)/(s+m),,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],61.0
+25,37642,g209g5Vve6,"Unit CTA1_12, Section CTA1_12-4",SYSFB22,1,R1C1,,,,,,,,1.0,,,,-1,
+26,38196,g209g5Vve6,"Unit ES_05, Section ES_05-11",LIT87,1,12y = 1-a*x,,,,,,,,0.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",279.0
+27,38553,g209g5Vve6,"Unit CTA1_14, Section CTA1_14-4",2PTFB16,3,R5C1,,,,,,,,1.0,,,,Entering a given,205.0
+28,38923,g209g5Vve6,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",YGT-4X-10,1,GraphChoice1,,,,,,,,1.0,,,,-1,
+29,39308,g209g5Vve6,"Unit CTA1_15, Section CTA1_15-3",SYSFB06,1,ValidEquations,,,,,,,,1.0,,,,-1,
+30,39522,g209g5Vve6,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE2TRE,1,R4C2,,,,,,,,0.0,,,,Using simple numbers,254.0
+31,39718,g209g5Vve6,"Unit QUADRATICS-FACTORING_ES, Section QUADRATICS-FACTORING_ES-1",EG-FACTOR02,1,FQCheckButton,,,,,,,,1.0,,,,-1,
+32,40101,g209g5Vve6,"Unit QUADRATICS-SOLVING_ES, Section QUADRATICS-SOLVING_ES-1",EG-S-FACTOR06,1,num2-factor-node,,,,,,,,1.0,,,,qft-num2-sp,17.0
+33,40437,g209g5Vve6,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD5TRE,1,R7C1,,,,,,,,0.0,,,,Entering a computed linear value,80.0
+92,96999,879eYkR2Wu,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",P-3X-YLT6,1,-3(0)-y = 6,,,,,,,,1.0,,,,-1,
+93,97452,879eYkR2Wu,"Unit CTA1_15, Section CTA1_15-3",SYSFB06,1,ValidEquations,,,,,,,,1.0,,,,-1,
+94,97629,879eYkR2Wu,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE3TRE,1,R4C3,,,,,,,,1.0,,,,Using simple numbers,62.0
+95,97736,879eYkR2Wu,"Unit QUADRATICS-FACTORING_ES, Section QUADRATICS-FACTORING_ES-2",EG-FACTOR48,1,c-factor-1,,,,,,,,1.0,,,,-1,
+96,98029,879eYkR2Wu,"Unit QUADRATICS-SOLVING_ES, Section QUADRATICS-SOLVING_ES-1",EG-S-FACTOR15,1,7x^2+19x-6 = 0,,,,,,,,1.0,,,,-1,
+97,98618,879eYkR2Wu,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD8TRE,2,b-factor-node,,,,,,,,1.0,,,,-1,
+98,98791,879eYkR2Wu,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS03,1,yR2,,,,,,,,1.0,,,,perform-mult-row2-sp,13.0
+99,98944,879eYkR2Wu,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS01-FIXED,1,x1R1,,,,,,,,1.0,,,,-1,
+100,99331,879eYkR2Wu,"Unit CTA1_20, Section CTA1_20-2",1PTFB17,1,R4C1,,,,,,,,0.0,,,,Entering a given,230.0
+101,99493,879eYkR2Wu,"Unit CTA1_21, Section CTA1_21-3",JAN08,1,yMax,,,,,,,,0.0,,,,Changing axis bounds,67.0
+102,99767,879eYkR2Wu,"Unit CTA1_22, Section CTA1_22-1",SYS08,1,yMax,,,,,,,,1.0,,,,Changing axis bounds,89.0
+103,99828,879eYkR2Wu,"Unit ES_06, Section ES_06-1",EG63A,5,-85265.5908y = 133395.09497311,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",132.0
+104,99934,879eYkR2Wu,"Unit CTA1_24, Section CTA1_24-1",PERCENT07,1,R7C2,,,,,,,,0.0,,,,"Find Y, Simple",4.0
+105,100104,879eYkR2Wu,"Unit CTA1_25, Section CTA1_25-1",REAL36,1,XLabel,,,,,,,,1.0,,,,Labelling the axes,115.0
+106,100304,879eYkR2Wu,"Unit CTA1_26, Section CTA1_26-1",REAL25,1,Slope Field 1,,,,,,,,1.0,,,,Entering the slope,23.0
+107,100512,879eYkR2Wu,"Unit CTA1_27, Section CTA1_27-1",BH1T18,1,R1C1,,,,,,,,1.0,,,,-1,
+108,102313,879eYkR2Wu,"Unit QuadLinearFuncTrans, Section QLFuncTrans11",TRANSFORMN022,1,CurrFunctionText,,,,,,,,1.0,,,,-1,
+141,159086,z9svx3mA4s,"Unit CTA1_01, Section CTA1_01-3",REAL20A,1,R4C2,,,,,,,,1.0,,,,Using simple numbers,37.0
+142,159261,z9svx3mA4s,"Unit CTA1_02, Section CTA1_02-3",L3NOV10,1,R1C2,,,,,,,,1.0,,,,-1,
+143,159498,z9svx3mA4s,"Unit ES_01, Section ES_01-11",EG27,2,2/-1 = -x/-1,,,,,,,,1.0,,,,[SkillRule: Calculate negative coefficient; [Typein Skill: Make variable positive]],2.0
+144,159677,z9svx3mA4s,"Unit CTA1_04, Section CTA1_04-3",L2FB15C,2,R6C2,,,,,,,,1.0,,,,Entering a given,129.0
+145,159846,z9svx3mA4s,"Unit ES_02, Section ES_02-6",EG40,1,0 = -7y,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",49.0
+146,160054,z9svx3mA4s,"Unit CTA1_13, Section CTA1_13-1",PROP13,1,R3C1,,,,,,,,1.0,,,,Define Variable,52.0
+147,160323,z9svx3mA4s,"Unit CTA1_06, Section CTA1_06-4",L6FB07,1,R2C2,,,,,,,,1.0,,,,Identifying units,86.0
+148,160752,z9svx3mA4s,"Unit ES_03, Section ES_03-7",LIT4,1,a*h/a = w/a,,,,,,,,1.0,,,,-1,
+149,160979,z9svx3mA4s,"Unit CTA1_08, Section CTA1_08-3",BH1T07,1,Formula 1 Coeff 1,,,,,,,,0.0,,,,Setting the slope,13.0
+150,161288,z9svx3mA4s,"Unit ES_04, Section ES_04-13",LIT36,1,-n/6 = 6z/6,,,,,,,,1.0,,,,-1,
+151,161517,z9svx3mA4s,"Unit CTA1_10, Section CTA1_10-4",FOR08_SP,1,R3C1,,,,,,,,1.0,,,,Define Variable,103.0
+152,161708,z9svx3mA4s,"Unit ES_07, Section ES_07-4",LIT68A,1,6h-2j = c*g+8z,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",181.0
+153,162138,z9svx3mA4s,"Unit CTA1_12, Section CTA1_12-6",SYSFB03,1,yMax,,,,,,,,1.0,,,,Changing axis bounds,138.0
+154,162311,z9svx3mA4s,"Unit ES_05, Section ES_05-12",LIT38,1,y-b = m*x,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",331.0
+155,162608,z9svx3mA4s,"Unit CTA1_14, Section CTA1_14-4",IPCTURDUCKEN,1,R6C1,,,,,,,,0.0,,,,Using small numbers,274.0
+156,162787,z9svx3mA4s,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",P-2X-2YGE9,1,ShadeButton1,,,,,,,,1.0,,,,Shading greater than,8.0
+157,163113,z9svx3mA4s,"Unit CTA1_15, Section CTA1_15-3",SYS07,1,Intersection 1 X,,,,,,,,1.0,,,,Labelling point of intersection,49.0
+158,163240,z9svx3mA4s,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE7TRE,1,R6C2,,,,,,,,1.0,,,,-1,
+159,163412,z9svx3mA4s,"Unit QUADRATICS-FACTORING_ES, Section QUADRATICS-FACTORING_ES-2",EG-FACTOR24,1,c-factor-2,,,,,,,,0.0,,,,-1,
+160,163735,z9svx3mA4s,"Unit QUADRATICS-SOLVING_ES, Section QUADRATICS-SOLVING_ES-1",EG-S-FACTOR10,1,14/2 = x,,,,,,,,1.0,,,,-1,
+161,163843,z9svx3mA4s,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD2TRE,2,T = (-320?sqrt(320^2-4*-16*-5))/-32,,,,,,,,1.0,,,,-1,
+170,212860,oEt3YTvS4G,"Unit CTA1_01, Section CTA1_01-4",JAN13A,1,R4C2,,,,,,,,1.0,,,,Using simple numbers,55.0
+171,213110,oEt3YTvS4G,"Unit CTA1_02, Section CTA1_02-4",L2FB14B,1,YLabel,,,,,,,,1.0,,,,Labelling the axes,21.0
+172,213257,oEt3YTvS4G,"Unit ES_01, Section ES_01-7",EG22,2,x-8+8 = 3+8,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",3.0
+173,213493,oEt3YTvS4G,"Unit CTA1_04, Section CTA1_04-4",L5FB04C,2,R6C1,,,,,,,,1.0,,,,Using small numbers,94.0
+174,213620,oEt3YTvS4G,"Unit ES_02, Section ES_02-6",EG40,2,-5 = -10+9y,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",32.0
+175,213773,oEt3YTvS4G,"Unit CTA1_13, Section CTA1_13-1",PROP12,1,R4C1,,,,,,,,1.0,,,,Using small numbers,111.0
+176,214102,oEt3YTvS4G,"Unit CTA1_06, Section CTA1_06-3",BH1T44,1,xScale,,,,,,,,1.0,,,,Changing axis intervals,35.0
+177,214493,oEt3YTvS4G,"Unit ES_03, Section ES_03-7",LIT11,1,2-m = s,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",97.0
+178,214624,oEt3YTvS4G,"Unit CTA1_08, Section CTA1_08-2",DEMO_8,1,R2C2,,,,,,,,1.0,,,,Identifying units,108.0
+179,214797,oEt3YTvS4G,"Unit ES_04, Section ES_04-10",EG57,1,(8x-1)/2*2 = 9*2,,,,,,,,1.0,,,,[SkillRule: Calculate Eliminate Parens; [Typein Skill: Eliminate Parens]],9.0
+180,214848,oEt3YTvS4G,"Unit CTA1_12, Section CTA1_12-1",LDEMO_SYS,1,R3C1,,,,,,,,1.0,,,,Define Variable,85.0
+181,215344,t0fI2c7EMH,"Unit CTA1_02, Section CTA1_02-4",REAL19B,1,R3C1,,,,,,,,1.0,,,,Define Variable,8.0
+182,215467,t0fI2c7EMH,"Unit ES_01, Section ES_01-5",EG15,1,(7-1.6)*4 = y,,,,,,,,1.0,,,,"[SkillRule: Select Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; Distribute subex}]",16.0
+183,215643,t0fI2c7EMH,"Unit CTA1_04, Section CTA1_04-4",L5FB04B,1,R3C2,,,,,,,,1.0,,,,Using small numbers,55.0
+184,215764,t0fI2c7EMH,"Unit ES_02, Section ES_02-10",EG44,2,1x = 2/x*x,,,,,,,,0.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],11.0
+185,215908,t0fI2c7EMH,"Unit CTA1_04, Section CTA1_04-4",BH1T47C,1,R1C2,,,,,,,,1.0,,,,-1,
+186,216076,t0fI2c7EMH,"Unit ES_02, Section ES_02-8",EG41,4,-14*-7 = x/-7*-7,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],17.0
+187,216136,t0fI2c7EMH,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE1TRE,1,R8C2,,,,,,,,0.0,,,,Entering a computed linear value,7.0
+193,231683,938jD6Z338,"Unit CTA1_01, Section CTA1_01-2",BH1T24B,1,R5C1,,,,,,,,1.0,,,,Entering a given,10.0
+194,231825,c3Ee3W8hyq,"Unit CTA1_01, Section CTA1_01-3",REAL20A,1,R4C2,,,,,,,,0.0,,,,Using simple numbers,40.0
+195,232144,c3Ee3W8hyq,"Unit CTA1_02, Section CTA1_02-3",L3NOV10C,1,yScale,,,,,,,,1.0,,,,Changing axis intervals,20.0
+196,232428,c3Ee3W8hyq,"Unit ES_01, Section ES_01-8",EG24,1,1/7 = -7x/-7,,,,,,,,0.0,,,,-1,
+197,232680,c3Ee3W8hyq,"Unit CTA1_04, Section CTA1_04-2",BH1T32,3,R3C2,,,,,,,,1.0,,,,"Write expression, positive slope",39.0
+198,233089,c3Ee3W8hyq,"Unit ES_02, Section ES_02-10",EG44,4,-9y = 9,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",106.0
+199,233204,c3Ee3W8hyq,"Unit CTA1_13, Section CTA1_13-1",PROP02,1,R5C1,,,,,,,,0.0,,,,Using small numbers,143.0
+200,233906,c3Ee3W8hyq,"Unit CTA1_06, Section CTA1_06-5",FBSMR2,1,R2C1,,,,,,,,1.0,,,,Identifying units,129.0
+201,234253,c3Ee3W8hyq,"Unit ES_03, Section ES_03-6",EG53A,1,3.4/39.1 = 39.1x/39.1,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],39.0
+202,234487,c3Ee3W8hyq,"Unit CTA1_08, Section CTA1_08-2",FEB02,1,Formula 1 Coeff 1,,,,,,,,0.0,,,,Setting the slope,12.0
+203,235088,c3Ee3W8hyq,"Unit ES_04, Section ES_04-15",LIT55,1,(y-3) = m*(x-7),,,,,,,,0.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",318.0
+204,235373,c3Ee3W8hyq,"Unit CTA1_10, Section CTA1_10-6",DISTFB13_SP,1,R3C1,,,,,,,,1.0,,,,Define Variable,126.0
+205,235536,c3Ee3W8hyq,"Unit ES_07, Section ES_07-4",LIT68A,1,6h = c*g+8z+2j,,,,,,,,0.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",359.0
+206,235939,c3Ee3W8hyq,"Unit CTA1_12, Section CTA1_12-5",SYSFB25,2,Intersection 1 X,,,,,,,,1.0,,,,Labelling point of intersection,23.0
+207,241775,h0UbH181l8,"Unit CTA1_01, Section CTA1_01-3",REAL20C,1,R4C1,,,,,,,,1.0,,,,Entering a given,29.0
+208,242063,h0UbH181l8,"Unit CTA1_02, Section CTA1_02-3",BH1T39,1,R3C1,,,,,,,,1.0,,,,Define Variable,29.0
+209,242452,h0UbH181l8,"Unit ES_01, Section ES_01-10",EG27,4,-x*-1 = -3*-1,,,,,,,,1.0,,,,-1,
+210,242653,h0UbH181l8,"Unit CTA1_04, Section CTA1_04-2",PERCENT03B,1,R3C2,,,,,,,,1.0,,,,Using small numbers,120.0
+211,243002,h0UbH181l8,"Unit ES_02, Section ES_02-10",EG44,1,FinalAnswer,,,,,,,,0.0,,,,simplify-fractions-sp,1.0
+212,243147,h0UbH181l8,"Unit CTA1_13, Section CTA1_13-1",PROP12,1,G/250 = 200,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",41.0
+213,243549,h0UbH181l8,"Unit CTA1_06, Section CTA1_06-4",BH1T48,1,R4C2,,,,,,,,0.0,,,,Entering a given,296.0
+214,244253,h0UbH181l8,"Unit ES_03, Section ES_03-6",EG51,2,-0.07352941(-1.6-7.5) = y,,,,,,,,0.0,,,,"[SkillRule: Select Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; Distribute subex}]",54.0
+215,244496,h0UbH181l8,"Unit CTA1_08, Section CTA1_08-2",L3_DEMO,1,YLabel,,,,,,,,1.0,,,,Labelling the axes,89.0
+216,245318,h0UbH181l8,"Unit ES_04, Section ES_04-12",EG58,2,constant factors2R1,,,,,,,,1.0,,,,-1,
+217,246124,h0UbH181l8,"Unit CTA1_10, Section CTA1_10-6",DISTFB10_SP,1,R5C1,,,,,,,,1.0,,,,Entering a given,398.0
+218,246339,h0UbH181l8,"Unit ES_07, Section ES_07-6",LIT71,1,A = 1/2*b*h,,,,,,,,1.0,,,,-1,
+219,246620,h0UbH181l8,"Unit CTA1_12, Section CTA1_12-4",SYSFB04,2,yMin,,,,,,,,1.0,,,,Changing axis bounds,125.0
+220,247019,h0UbH181l8,"Unit ES_05, Section ES_05-10",EG62A,1,constant terms2R1,,,,,,,,1.0,,,,-1,
+221,247369,h0UbH181l8,"Unit CTA1_14, Section CTA1_14-4",TPH15,2,R5C2,,,,,,,,1.0,,,,Entering a given,517.0
+222,247824,h0UbH181l8,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",YGT-4X-10,1,yMax,,,,,,,,1.0,,,,-1,
+223,248109,h0UbH181l8,"Unit CTA1_15, Section CTA1_15-3",SYS09,2,R7C1,,,,,,,,1.0,,,,Entering a given,578.0
+224,248320,h0UbH181l8,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE5TRE,1,R8C1,,,,,,,,1.0,,,,Entering a computed linear value,41.0
+225,248458,h0UbH181l8,"Unit QUADRATICS-FACTORING_ES, Section QUADRATICS-FACTORING_ES-1",EG-FACTOR08,1,a-factor-1,,,,,,,,1.0,,,,-1,
+226,248689,h0UbH181l8,"Unit QUADRATICS-SOLVING_ES, Section QUADRATICS-SOLVING_ES-1",EG-S-FACTOR07,1,(-9+sqrt(81-80))/2 = x,,,,,,,,1.0,,,,"[SkillRule: Select Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; Distribute subex}]",77.0
+227,248817,h0UbH181l8,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD2TRE,1,R4C2,,,,,,,,1.0,,,,Using simple numbers,447.0
+228,248825,h0UbH181l8,"Unit QUADRATICS-SOLVING_ES, Section QUADRATICS-SOLVING_ES-1",EG-S-FACTOR21,2,(-7?sqrt(7*7-4*1*9))/(2*1) = x,,,,,,,,1.0,,,,-1,
+229,248977,h0UbH181l8,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD7TRE,1,YLabel,,,,,,,,1.0,,,,Labelling the axes,175.0
+230,249035,h0UbH181l8,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS01,1,(2(x^2)(y^5))(2(x^5)(y^4)),,,,,,,,1.0,,,,-1,
+231,249093,h0UbH181l8,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-2",EG-EQS08,2,1.333x^0,,,,,,,,0.0,,,,-1,
+232,283843,tlJn3I40bf,"Unit CTA1_01, Section CTA1_01-4",L1FB12B,1,R3C2,,,,,,,,0.0,,,,Using simple numbers,72.0
+233,284008,tlJn3I40bf,"Unit CTA1_02, Section CTA1_02-3",L3NOV10C,1,yMin,,,,,,,,1.0,,,,Changing axis bounds,14.0
+234,284243,tlJn3I40bf,"Unit ES_01, Section ES_01-6",EG21,9,x = -2-2,,,,,,,,1.0,,,,[SkillRule: Select Combine Terms; CLT],18.0
+235,284490,tlJn3I40bf,"Unit CTA1_04, Section CTA1_04-3",PERCENT14,1,R4C1,,,,,,,,1.0,,,,Entering a given,145.0
+236,284651,tlJn3I40bf,"Unit ES_02, Section ES_02-6",EG40,4,-7x-1 = 8,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",45.0
+237,284856,tlJn3I40bf,"Unit CTA1_13, Section CTA1_13-1",PROP09,1,R7C2,,,,,,,,1.0,,,,Entering a given,191.0
+238,285197,tlJn3I40bf,"Unit CTA1_06, Section CTA1_06-3",JAN05,1,7500+155V = 92440,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",83.0
+239,285667,tlJn3I40bf,"Unit ES_03, Section ES_03-6",EG53,1,-5.1+2.1 = 3.1x-2.1+2.1,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",24.0
+240,285982,tlJn3I40bf,"Unit CTA1_08, Section CTA1_08-3",L5FB02,1,Formula 1 Coeff 0,,,,,,,,1.0,,,,Setting the y-intercept,17.0
+241,286360,tlJn3I40bf,"Unit ES_04, Section ES_04-14",LIT20A,3,s/d*d = (f-c)*d,,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",65.0
+242,286795,tlJn3I40bf,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R7C2,,,,,,,,1.0,,,,Entering a given,362.0
+243,287002,tlJn3I40bf,"Unit ES_07, Section ES_07-6",LIT81A,1,a*h-7g+7g = q*k+7g,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",79.0
+244,287210,tlJn3I40bf,"Unit CTA1_12, Section CTA1_12-4",SYSFB04,1,xScale,,,,,,,,1.0,,,,Changing axis intervals,88.0
+245,287571,tlJn3I40bf,"Unit ES_05, Section ES_05-10",EG62,2,35.57y+(-34.54) = 33.93,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",329.0
+246,287955,tlJn3I40bf,"Unit CTA1_14, Section CTA1_14-4",IPCRETIREMENT,1,625000-259000/7*Y = 0,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",372.0
+247,306053,y5009rpZ12,"Unit CTA1_01, Section CTA1_01-3",REAL20C,1,R6C2,,,,,,,,1.0,,,,Using simple numbers,56.0
+248,306258,y5009rpZ12,"Unit CTA1_02, Section CTA1_02-3",L3NOV10C,2,xMax,,,,,,,,1.0,,,,Changing axis bounds,17.0
+249,306509,y5009rpZ12,"Unit ES_01, Section ES_01-8",EG23,1,-6/3 = 3y/3,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",3.0
+250,306830,y5009rpZ12,"Unit CTA1_04, Section CTA1_04-3",PERCENT14,1,R2C1,,,,,,,,1.0,,,,Identifying units,69.0
+251,307146,y5009rpZ12,"Unit ES_02, Section ES_02-8",EG41,5,-17*7 = y/7*7,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],13.0
+252,307272,y5009rpZ12,"Unit CTA1_13, Section CTA1_13-1",PROP02,1,R4C1,,,,,,,,1.0,,,,Entering a given,186.0
+253,307868,y5009rpZ12,"Unit CTA1_06, Section CTA1_06-5",FBSMR2,1,R7C1,,,,,,,,1.0,,,,Entering a given,294.0
+254,308259,y5009rpZ12,"Unit ES_03, Section ES_03-8",LIT17A,1,r1R1,,,,,,,,1.0,,,,-1,
+255,308432,y5009rpZ12,"Unit CTA1_08, Section CTA1_08-2",REAL31,1,R3C2,,,,,,,,0.0,,,,Using simple numbers,191.0
+256,308859,y5009rpZ12,"Unit ES_04, Section ES_04-16",LIT58A,1,7+z*(c+q)-7 = s+g-7,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",57.0
+257,309115,y5009rpZ12,"Unit CTA1_10, Section CTA1_10-4",FOR08_SP,1,R6C1,,,,,,,,1.0,,,,Entering a given,354.0
+258,309399,y5009rpZ12,"Unit ES_07, Section ES_07-4",LIT62A,1,di-expr,,,,,,,,1.0,,,,-1,
+259,309725,y5009rpZ12,"Unit CTA1_12, Section CTA1_12-5",SYSFB25,1,YLabel,,,,,,,,1.0,,,,Labelling the axes,132.0
+260,310069,y5009rpZ12,"Unit ES_05, Section ES_05-9",EG62A,2,-64.07y-833.41 = -2083.98,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",311.0
+261,310454,y5009rpZ12,"Unit CTA1_14, Section CTA1_14-4",TPH15,1,R1C1,,,,,,,,1.0,,,,-1,
+262,310865,y5009rpZ12,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",YGE4X-11,1,GraphChoice1,,,,,,,,1.0,,,,-1,
+263,311283,y5009rpZ12,"Unit CTA1_15, Section CTA1_15-3",SYS09,1,xMax,,,,,,,,1.0,,,,Changing axis bounds,190.0
+264,311481,y5009rpZ12,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE7TRE,1,R4C3,,,,,,,,1.0,,,,Using simple numbers,391.0
+265,311509,y5009rpZ12,"Unit QUADRATICS-FACTORING_ES, Section QUADRATICS-FACTORING_ES-1",EG-FACTOR01,2,x^2+7x+10,,,,,,,,0.0,,,,-1,
+266,311531,y5009rpZ12,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE8TRE,3,yMax,,,,,,,,1.0,,,,Changing axis bounds,208.0
+267,311713,y5009rpZ12,"Unit QUADRATICS-FACTORING_ES, Section QUADRATICS-FACTORING_ES-2",EG-FACTOR21,1,FinalAnswer,,,,,,,,1.0,,,,factor-quadratic-sp,24.0
+268,312002,y5009rpZ12,"Unit QUADRATICS-SOLVING_ES, Section QUADRATICS-SOLVING_ES-1",EG-S-FACTOR17,1,(-6-sqrt(36))/6 = x,,,,,,,,1.0,,,,"[SkillRule: Apply Exponent; {Expand Exponents; eval radical; Expand Exponents, radical}]",21.0
+269,312406,y5009rpZ12,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD7TRE,1,XLabel,,,,,,,,1.0,,,,Labelling the axes,179.0
+270,312497,y5009rpZ12,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS01,1,xR2,,,,,,,,1.0,,,,perform-mult-row2-sp,21.0
+271,312891,y5009rpZ12,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS03,5,row1-N-y,,,,,,,,1.0,,,,-1,
+272,313099,y5009rpZ12,"Unit CTA1_20, Section CTA1_20-2",2PTFB22,1,4.8Y+387 = 450,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",431.0
+273,313440,y5009rpZ12,"Unit CTA1_21, Section CTA1_21-3",JAN07,2,yScale,,,,,,,,1.0,,,,Changing axis intervals,172.0
+274,313535,y5009rpZ12,"Unit CTA1_22, Section CTA1_22-1",SYSFB13,1,yScale,,,,,,,,1.0,,,,Changing axis intervals,177.0
+275,313711,yB480DNZ70,"Unit CTA1_01, Section CTA1_01-3",BH1T19,1,R5C1,,,,,,,,1.0,,,,Entering a given,41.0
+276,314108,yB480DNZ70,"Unit CTA1_02, Section CTA1_02-4",L2FB14C,1,yMax,,,,,,,,0.0,,,,Changing axis bounds,37.0
+277,314337,yB480DNZ70,"Unit ES_01, Section ES_01-9",EG25,2,-3*6 = y/6*6,,,,,,,,0.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],2.0
+278,314543,yB480DNZ70,"Unit CTA1_04, Section CTA1_04-3",DEC01C,1,0.5S+3 = 23.5,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",48.0
+279,314799,yB480DNZ70,"Unit ES_02, Section ES_02-5",EG40,19,2/3 = 9y/9,,,,,,,,0.0,,,,-1,
+280,315007,yB480DNZ70,"Unit CTA1_13, Section CTA1_13-1",PROP13,1,R5C1,,,,,,,,1.0,,,,Entering a given,186.0
+281,315035,yB480DNZ70,"Unit CTA1_06, Section CTA1_06-2",FEB05,1,R1C1,,,,,,,,1.0,,,,-1,
+282,315085,yB480DNZ70,"Unit CTA1_13, Section CTA1_13-1",PROP06,1,R7C1,,,,,,,,1.0,,,,Entering a given,211.0
+283,315747,yB480DNZ70,"Unit CTA1_06, Section CTA1_06-4",BH1T51,1,xMin,,,,,,,,0.0,,,,Changing axis bounds,120.0
+284,316218,yB480DNZ70,"Unit ES_03, Section ES_03-7",LIT5,1,m/q = x,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",210.0
+285,316514,yB480DNZ70,"Unit CTA1_08, Section CTA1_08-3",PERCENT12,4,yMax,,,,,,,,1.0,,,,Changing axis bounds,161.0
+286,317036,yB480DNZ70,"Unit ES_04, Section ES_04-14",LIT22A,4,row1-N-c-z,,,,,,,,1.0,,,,-1,
+287,317534,yB480DNZ70,"Unit CTA1_10, Section CTA1_10-6",DISTFB13_SP,1,R2C1,,,,,,,,1.0,,,,Identifying units,185.0
+288,318203,yB480DNZ70,"Unit ES_07, Section ES_07-4",LIT70A,4,6u-r*u-r*w-6u = x*s-6u,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",136.0
+289,318942,yB480DNZ70,"Unit CTA1_12, Section CTA1_12-6",SYS01,3,3C = 630,,,,,,,,0.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",174.0
+290,319279,yB480DNZ70,"Unit ES_05, Section ES_05-6",EG60,7,9x-2 = -8x-4+4,,,,,,,,1.0,,,,[SkillRule: Consolidate vars with coeff; CLT],273.0
+301,362605,88Uhb8760x,"Unit CTA1_01, Section CTA1_01-3",JAN11B,1,R3C1,,,,,,,,1.0,,,,Define Variable,17.0
+302,362877,88Uhb8760x,"Unit CTA1_02, Section CTA1_02-3",L3NOV10C,1,yScale,,,,,,,,1.0,,,,Changing axis intervals,17.0
+303,363173,88Uhb8760x,"Unit ES_01, Section ES_01-11",EG27,2,8 = -y,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",19.0
+304,363386,88Uhb8760x,"Unit CTA1_04, Section CTA1_04-3",DEC01,1,R2C2,,,,,,,,1.0,,,,Identifying units,82.0
+305,363710,88Uhb8760x,"Unit ES_02, Section ES_02-10",EG44,1,-3y = -8,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",86.0
+306,363824,88Uhb8760x,"Unit CTA1_13, Section CTA1_13-1",PROP01,1,R6C1,,,,,,,,1.0,,,,Entering a given,226.0
+307,364330,88Uhb8760x,"Unit CTA1_06, Section CTA1_06-4",BH1T48,2,-4050000L = -500000000,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",141.0
+308,364794,88Uhb8760x,"Unit ES_03, Section ES_03-6",EG53,1,-10.5Y/-10.5 = 8/-10.5,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],47.0
+309,365125,88Uhb8760x,"Unit CTA1_08, Section CTA1_08-3",JAN12,1,XLabel,,,,,,,,1.0,,,,Labelling the axes,122.0
+310,365548,88Uhb8760x,"Unit ES_04, Section ES_04-15",LIT56,1,(j*t+j*-w)/j*j = b/j*j,,,,,,,,0.0,,,,-1,
+311,365839,88Uhb8760x,"Unit CTA1_10, Section CTA1_10-3",DISTFB06_SP,3,D-100000 = 3333333.33333333,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",249.0
+312,366341,88Uhb8760x,"Unit ES_07, Section ES_07-5",LIT71,1,A = b*h/2,,,,,,,,0.0,,,,-1,
+313,366834,88Uhb8760x,"Unit CTA1_12, Section CTA1_12-6",SYSFB11,1,ValidEquations,,,,,,,,0.0,,,,-1,
+314,367206,88Uhb8760x,"Unit ES_05, Section ES_05-10",EG62,2,x1R1,,,,,,,,1.0,,,,-1,
+315,367569,88Uhb8760x,"Unit CTA1_14, Section CTA1_14-4",2PTFB10,1,R1C1,,,,,,,,1.0,,,,-1,
+316,368024,88Uhb8760x,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",YGT5X+12,1,Slope1,,,,,,,,1.0,,,,"Entering slope, SIF",9.0
+317,368335,88Uhb8760x,"Unit CTA1_15, Section CTA1_15-3",SYSFB06,1,R5C3,,,,,,,,0.0,,,,"Find Y, Simple",42.0
+318,368557,88Uhb8760x,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE3TRE,1,R5C3,,,,,,,,1.0,,,,Using simple numbers,457.0
+319,368725,88Uhb8760x,"Unit QUADRATICS-FACTORING_ES, Section QUADRATICS-FACTORING_ES-1",EG-FACTOR19,1,c-factor-2,,,,,,,,1.0,,,,-1,
+402,447213,mI0bEZaepz,"Unit CTA1_01, Section CTA1_01-4",L1FB12A,1,R5C1,,,,,,,,1.0,,,,Entering a given,58.0
+403,447517,mI0bEZaepz,"Unit CTA1_02, Section CTA1_02-4",REAL19C,1,R5C1,,,,,,,,1.0,,,,Entering a given,119.0
+404,447781,mI0bEZaepz,"Unit ES_01, Section ES_01-8",EG23,4,-9 = 4y,,,,,,,,0.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",8.0
+405,447987,mI0bEZaepz,"Unit CTA1_04, Section CTA1_04-3",BH1T41,1,R5C1,,,,,,,,1.0,,,,Entering a given,166.0
+406,448179,mI0bEZaepz,"Unit ES_02, Section ES_02-4",EG35,1,x = -9(-5+8),,,,,,,,1.0,,,,"[SkillRule: Select Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; Distribute subex}]",51.0
+407,448397,v52MhQAVT9,"Unit CTA1_01, Section CTA1_01-3",L3NOV07B,1,R1C1,,,,,,,,1.0,,,,-1,
+408,448777,v52MhQAVT9,"Unit CTA1_02, Section CTA1_02-4",REAL28,1,R5C1,,,,,,,,1.0,,,,Entering a given,119.0
+409,448909,v52MhQAVT9,"Unit ES_01, Section ES_01-5",EG15,2,36-4.4*6 = y,,,,,,,,1.0,,,,"[SkillRule: Select Multiply/Divide, nested; {MT; MT no fraction coeff}]",21.0
+410,449033,v52MhQAVT9,"Unit CTA1_04, Section CTA1_04-2",REAL13A,1,R1C1,,,,,,,,1.0,,,,-1,
+411,457759,0GlR30c2Mt,"Unit CTA1_01, Section CTA1_01-3",REAL20B,1,R4C2,,,,,,,,1.0,,,,Using simple numbers,41.0
+412,458021,0GlR30c2Mt,"Unit CTA1_02, Section CTA1_02-3",BH1T39B,2,xMax,,,,,,,,0.0,,,,Changing axis bounds,26.0
+413,458306,0GlR30c2Mt,"Unit ES_01, Section ES_01-6",EG21,1,4 = x+10,,,,,,,,0.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",1.0
+414,458567,0GlR30c2Mt,"Unit CTA1_04, Section CTA1_04-3",BH1T41C,1,R5C1,,,,,,,,1.0,,,,Entering a given,156.0
+415,458863,0GlR30c2Mt,"Unit ES_02, Section ES_02-7",EG41,2,5+(x/-7)-5 = -7-5,,,,,,,,1.0,,,,[SkillRule: Consolidate vars with coeff; CLT],49.0
+416,459117,0GlR30c2Mt,"Unit CTA1_13, Section CTA1_13-1",PROP09,1,R7C1,,,,,,,,1.0,,,,Using small numbers,143.0
+417,459802,0GlR30c2Mt,"Unit CTA1_06, Section CTA1_06-5",FBSMR3,1,XLabel,,,,,,,,1.0,,,,Labelling the axes,81.0
+418,460101,0GlR30c2Mt,"Unit ES_03, Section ES_03-8",LIT1A,1,t = u-s,,,,,,,,0.0,,,,"[SkillRule: Done?; {doneleft; doneright; done no solution; Done No Solution, domain exception; Done No Solution, range exception; done infinite solutions}]",5.0
+419,460349,0GlR30c2Mt,"Unit CTA1_08, Section CTA1_08-3",REAL37,1,XLabel,,,,,,,,1.0,,,,Labelling the axes,120.0
+420,460799,0GlR30c2Mt,"Unit ES_04, Section ES_04-12",EG58,2,-23y = -30,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",291.0
+421,461298,0GlR30c2Mt,"Unit CTA1_10, Section CTA1_10-6",DISTFB10_SP,1,R1C1,,,,,,,,1.0,,,,-1,
+422,461636,0GlR30c2Mt,"Unit ES_07, Section ES_07-6",LIT81A,2,a*h-7g+7g = q*k+7g,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",127.0
+423,461828,0GlR30c2Mt,"Unit CTA1_12, Section CTA1_12-2",SYS04,1,S+45 = 602,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",337.0
+463,505038,6jCygPdswz,"Unit CTA1_01, Section CTA1_01-4",REAL32B,1,R1C2,,,,,,,,1.0,,,,-1,
+464,505287,6jCygPdswz,"Unit CTA1_02, Section CTA1_02-3",L3NOV12B,1,R7C1,,,,,,,,1.0,,,,Entering a given,103.0
+465,505566,6jCygPdswz,"Unit ES_01, Section ES_01-5",EG14A,2,x = 35.1+44*50,,,,,,,,1.0,,,,"[SkillRule: Select Multiply/Divide, nested; {MT; MT no fraction coeff}]",38.0
+466,505835,6jCygPdswz,"Unit CTA1_04, Section CTA1_04-3",PERCENT14C,2,R7C1,,,,,,,,0.0,,,,Using small numbers,108.0
+467,506158,6jCygPdswz,"Unit ES_02, Section ES_02-6",EG40,5,FinalAnswer,,,,,,,,1.0,,,,simplify-fractions-sp,5.0
+468,506451,6jCygPdswz,"Unit CTA1_13, Section CTA1_13-1",PROP06,1,R2C1,,,,,,,,0.0,,,,Identifying units,90.0
+469,506918,6jCygPdswz,"Unit CTA1_06, Section CTA1_06-3",FOR05,1,R3C2,,,,,,,,0.0,,,,Using small numbers,200.0
+470,507510,6jCygPdswz,"Unit ES_03, Section ES_03-7",LIT12,1,k-3 = h,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",137.0
+471,507846,6jCygPdswz,"Unit CTA1_08, Section CTA1_08-3",FEB08,1,XUnit,,,,,,,,1.0,,,,-1,
+472,508301,6jCygPdswz,"Unit ES_04, Section ES_04-16",LIT60A,1,q*c*r = d*x-q*c*v,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",261.0
+473,508608,6jCygPdswz,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R4C1,,,,,,,,1.0,,,,Entering a given,420.0
+474,508787,6jCygPdswz,"Unit ES_07, Section ES_07-4",LIT70A,1,6u-r*u-6u = x*s+r*w-6u,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",69.0
+475,509353,6jCygPdswz,"Unit CTA1_12, Section CTA1_12-6",SYSFB03,1,R7C1,,,,,,,,1.0,,,,-1,
+476,509583,6jCygPdswz,"Unit ES_05, Section ES_05-8",EG61,11,7.61x+0.35-0.35 = -9.74-0.35,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",111.0
+477,510093,6jCygPdswz,"Unit CTA1_14, Section CTA1_14-4",IPCEVEREST,2,R6C1,,,,,,,,1.0,,,,Entering a given,575.0
+478,510570,6jCygPdswz,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",P-2X-2YGE9,1,ShadeButton1,,,,,,,,1.0,,,,Shading greater than,10.0
+479,511025,6jCygPdswz,"Unit CTA1_15, Section CTA1_15-3",SYS10,1,R6C1,,,,,,,,1.0,,,,Entering a given,634.0
+480,511147,6jCygPdswz,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE8TRE,1,R2C2,,,,,,,,1.0,,,,Identifying units,321.0
+481,511362,6jCygPdswz,"Unit QUADRATICS-FACTORING_ES, Section QUADRATICS-FACTORING_ES-2",EG-FACTOR42,1,a-factor-2,,,,,,,,1.0,,,,-1,
+482,511471,6jCygPdswz,"Unit QUADRATICS-SOLVING_ES, Section QUADRATICS-SOLVING_ES-1",EG-S-FACTOR22,1,a-factor-node,,,,,,,,1.0,,,,-1,
+483,511692,6jCygPdswz,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD6TRE,1,R8C1,,,,,,,,1.0,,,,Entering a given,705.0
+484,511837,6jCygPdswz,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS02,1,y1R1,,,,,,,,1.0,,,,-1,
+485,512069,6jCygPdswz,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS01-FIXED,2,row1-D-constant factors,,,,,,,,1.0,,,,-1,
+486,512413,6jCygPdswz,"Unit CTA1_20, Section CTA1_20-2",1PTFB18,1,R6C1,,,,,,,,0.0,,,,Entering a given,752.0
+487,512717,6jCygPdswz,"Unit CTA1_21, Section CTA1_21-2",PROP17,1,Formula 1 Coeff 1,,,,,,,,0.0,,,,Setting the slope,30.0
+488,513070,6jCygPdswz,"Unit CTA1_22, Section CTA1_22-1",SYS08,1,yMin,,,,,,,,1.0,,,,Changing axis bounds,380.0
+489,513085,6jCygPdswz,"Unit ES_06, Section ES_06-1",EG63A,1,-232.61278519-632362.632x = 327.97-425.76(x-242.71),,,,,,,,0.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",151.0
+518,547765,UJCeB1hbie,"Unit CTA1_01, Section CTA1_01-3",BH1T30,1,R2C2,,,,,,,,1.0,,,,Identifying units,13.0
+519,563790,02i5jCrfQK,"Unit CTA1_01, Section CTA1_01-3",DEC03C,1,R5C1,,,,,,,,1.0,,,,Entering a given,43.0
+520,563989,02i5jCrfQK,"Unit CTA1_02, Section CTA1_02-4",BH1T29A,3,R6C1,,,,,,,,0.0,,,,Using simple numbers,113.0
+521,564174,02i5jCrfQK,"Unit ES_01, Section ES_01-7",EG21,2,FinalAnswer,,,,,,,,1.0,,,,combine-like-terms-sp,11.0
+522,564380,02i5jCrfQK,"Unit CTA1_04, Section CTA1_04-2",PERCENT05C,1,R3C1,,,,,,,,1.0,,,,Define Variable,40.0
+523,564883,02i5jCrfQK,"Unit ES_02, Section ES_02-10",EG44,7,row1-D-y,,,,,,,,1.0,,,,-1,
+524,565014,02i5jCrfQK,"Unit CTA1_13, Section CTA1_13-1",PROP01,1,2F = 3000,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",68.0
+525,565722,02i5jCrfQK,"Unit CTA1_06, Section CTA1_06-5",FBSMR1,2,15H = 3.75,,,,,,,,0.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",110.0
+526,565940,02i5jCrfQK,"Unit ES_03, Section ES_03-6",EG51A,1,FinalAnswer,,,,,,,,1.0,,,,combine-like-terms-sp,33.0
+527,566280,02i5jCrfQK,"Unit CTA1_08, Section CTA1_08-3",BH1T07,1,YUnit,,,,,,,,1.0,,,,-1,
+528,566883,02i5jCrfQK,"Unit ES_04, Section ES_04-14",LIT32A,1,-k/t*t = c*t,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],106.0
+529,567217,02i5jCrfQK,"Unit CTA1_10, Section CTA1_10-5",DIST04_SP,1,R3C1,,,,,,,,1.0,,,,Define Variable,118.0
+530,567721,02i5jCrfQK,"Unit ES_07, Section ES_07-6",LIT82A,6,row1-N-w*m*j+w*j,,,,,,,,1.0,,,,-1,
+531,568461,02i5jCrfQK,"Unit CTA1_12, Section CTA1_12-5",SYSFB25,2,R4C1,,,,,,,,1.0,,,,Entering a given,413.0
+532,568700,02i5jCrfQK,"Unit ES_05, Section ES_05-7",EG61,2,-3.46-2.98y = -6.83+4.71y,,,,,,,,1.0,,,,-1,
+533,569103,02i5jCrfQK,"Unit CTA1_14, Section CTA1_14-4",2PTFB10,1,51+7H = 72,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",416.0
+534,569556,02i5jCrfQK,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",YLT3X+5,1,GraphButton1,,,,,,,,1.0,,,,-1,
+535,569878,02i5jCrfQK,"Unit CTA1_15, Section CTA1_15-3",SYS07,1,R5C3,,,,,,,,1.0,,,,Entering a given,575.0
+536,570162,02i5jCrfQK,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE3TRE,1,R5C1,,,,,,,,1.0,,,,Entering a given,618.0
+537,570320,02i5jCrfQK,"Unit QUADRATICS-FACTORING_ES, Section QUADRATICS-FACTORING_ES-2",EG-FACTOR33,1,2x^2+9x,,,,,,,,1.0,,,,-1,
+538,570594,02i5jCrfQK,"Unit QUADRATICS-SOLVING_ES, Section QUADRATICS-SOLVING_ES-1",EG-S-FACTOR24,1,-9.54400375/2 = x,,,,,,,,1.0,,,,-1,
+539,571178,02i5jCrfQK,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD11TRE,1,YUnit,,,,,,,,1.0,,,,-1,
+540,571238,02i5jCrfQK,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS01-FIXED,1,yR2,,,,,,,,1.0,,,,perform-mult-row2-sp,40.0
+541,571596,02i5jCrfQK,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS01,4,row2x,,,,,,,,0.0,,,,-1,
+542,571954,02i5jCrfQK,"Unit CTA1_20, Section CTA1_20-2",1PTFB10,1,R3C1,,,,,,,,1.0,,,,Define Variable,217.0
+543,572228,02i5jCrfQK,"Unit CTA1_21, Section CTA1_21-3",JAN08,1,Intercept Field 1,,,,,,,,1.0,,,,Entering the y-intercept,32.0
+544,572341,02i5jCrfQK,"Unit CTA1_22, Section CTA1_22-1",SYSFB13,2,R1C2,,,,,,,,0.0,,,,-1,
+571,594409,rPj8YeG1I5,"Unit CTA1_01, Section CTA1_01-4",JAN13C,1,R2C2,,,,,,,,1.0,,,,Identifying units,28.0
+572,594576,rPj8YeG1I5,"Unit CTA1_02, Section CTA1_02-3",L3NOV12B,1,R3C1,,,,,,,,1.0,,,,Define Variable,25.0
+573,594853,rPj8YeG1I5,"Unit ES_01, Section ES_01-8",EG25,2,5*4 = x/4*4,,,,,,,,1.0,,,,-1,
+574,595043,rPj8YeG1I5,"Unit CTA1_04, Section CTA1_04-3",BH1T41C,1,R7C2,,,,,,,,1.0,,,,Entering a given,137.0
+575,595363,rPj8YeG1I5,"Unit ES_02, Section ES_02-10",EG44,4,8/y*y = -6y,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],19.0
+576,595491,rPj8YeG1I5,"Unit CTA1_13, Section CTA1_13-1",PROP13,1,6/9*M = 210,,,,,,,,0.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",94.0
+577,595545,rPj8YeG1I5,"Unit CTA1_06, Section CTA1_06-2",FEB11,1,R3C2,,,,,,,,0.0,,,,Using simple numbers,134.0
+624,695091,1bJbgQ32E3,"Unit CTA1_01, Section CTA1_01-3",BH1T33B,3,R4C2,,,,,,,,0.0,,,,Using simple numbers,53.0
+625,695491,1bJbgQ32E3,"Unit CTA1_02, Section CTA1_02-4",REAL28,1,R7C2,,,,,,,,1.0,,,,Entering a given,125.0
+626,695879,1bJbgQ32E3,"Unit ES_01, Section ES_01-9",EG25,1,x/3 = 5,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",5.0
+627,696092,1bJbgQ32E3,"Unit CTA1_04, Section CTA1_04-2",BH1T32B,2,R5C1,,,,,,,,0.0,,,,Entering a given,177.0
+628,696396,1bJbgQ32E3,"Unit ES_02, Section ES_02-7",EG41,4,-7+(y/-9) = 7,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",66.0
+629,696616,1bJbgQ32E3,"Unit CTA1_13, Section CTA1_13-1",PROP10,1,R6C1,,,,,,,,1.0,,,,Entering a given,249.0
+630,696976,1bJbgQ32E3,"Unit CTA1_06, Section CTA1_06-3",FEB13,1,R2C2,,,,,,,,1.0,,,,Identifying units,117.0
+631,697598,1bJbgQ32E3,"Unit ES_03, Section ES_03-8",LIT6A,1,FinalAnswer,,,,,,,,1.0,,,,simplify-fractions-sp,3.0
+632,697822,1bJbgQ32E3,"Unit CTA1_08, Section CTA1_08-3",L5FB02,1,R1C2,,,,,,,,1.0,,,,-1,
+633,698274,1bJbgQ32E3,"Unit ES_04, Section ES_04-14",LIT32A,6,row1-D-t,,,,,,,,1.0,,,,-1,
+634,698671,1bJbgQ32E3,"Unit CTA1_10, Section CTA1_10-5",DIST04_SP,1,0.25(H+56) = 55,,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",108.0
+635,699157,1bJbgQ32E3,"Unit ES_07, Section ES_07-4",LIT70A,2,FinalAnswer,,,,,,,,1.0,,,,combine-like-terms-sp,85.0
+636,699620,1bJbgQ32E3,"Unit CTA1_12, Section CTA1_12-3",SYS02,1,R5C1,,,,,,,,0.0,,,,Entering a given,477.0
+637,700103,1bJbgQ32E3,"Unit ES_05, Section ES_05-7",EG61,11,-11.48 = -0.23y,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",115.0
+638,700596,1bJbgQ32E3,"Unit CTA1_14, Section CTA1_14-4",2PTFB10,1,R8C1,,,,,,,,0.0,,,,Using simple numbers,365.0
+639,701144,1bJbgQ32E3,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",7X-4YGE15,1,7*0-4y = 15,,,,,,,,1.0,,,,-1,
+640,701426,1bJbgQ32E3,"Unit CTA1_15, Section CTA1_15-3",SYSFB10,1,-90H = -3500+60H,,,,,,,,0.0,,,,"[SkillRule: Consolidate vars, any; {Combine variables to right, sub; Combine variables to right, add; Combine variables to right, gen; Combine variables to right; Combine variables to left, add; Combine variables to left, sub; Combine variables to left, gen; ax+b=cx; ax+b=cx, move left; ax+b=cx+d, pos; ax+b=cx+d, neg; ax+b=cx+d, move right; ax+b=cx+d, move two; ax+b=cx+d, move two2; x+b=cx+d, pos; x+b=cx+d, neg; x+b=cx+d, move right; x+b=cx+d, move two; x+b=cx+d, move two2; ax+b=x+d, pos; ax+b=x+d, neg; ax+b=x+d, move right; ax+b=x+d, move two; ax+b=x+d, move two2; x+b=x+d, pos; x+b=x+d, neg; x+b=x+d, move right; x+b=x+d, move two; x+b=x+d, move two2}]",105.0
+641,701746,1bJbgQ32E3,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE5TRE,2,R6C3,,,,,,,,1.0,,,,Entering a computed linear value,42.0
+642,701999,1bJbgQ32E3,"Unit QUADRATICS-FACTORING_ES, Section QUADRATICS-FACTORING_ES-2",EG-FACTOR50,1,c-factor-2,,,,,,,,0.0,,,,-1,
+643,702414,1bJbgQ32E3,"Unit QUADRATICS-SOLVING_ES, Section QUADRATICS-SOLVING_ES-1",EG-S-FACTOR16,1,(3-3)/8 = x,,,,,,,,1.0,,,,"[SkillRule: Select Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; Distribute subex}]",116.0
+644,702686,1bJbgQ32E3,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD7TRE,2,a-factor-node,,,,,,,,1.0,,,,-1,
+645,702834,1bJbgQ32E3,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS02,1,(3(x^3)(y^6))(2y^4),,,,,,,,1.0,,,,-1,
+646,702957,1bJbgQ32E3,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-2",EG-EQS07,1,row3-D-y,,,,,,,,0.0,,,,-1,
+647,703270,1bJbgQ32E3,"Unit CTA1_20, Section CTA1_20-2",BH1T45,1,R2C1,,,,,,,,1.0,,,,Identifying units,352.0
+648,703553,242fhbKRf9,"Unit CTA1_01, Section CTA1_01-3",L3NOV07A,1,R5C2,,,,,,,,1.0,,,,Using simple numbers,65.0
+649,703820,242fhbKRf9,"Unit CTA1_02, Section CTA1_02-3",L3NOV12C,2,R4C2,,,,,,,,0.0,,,,Using simple numbers,134.0
+650,704243,242fhbKRf9,"Unit ES_01, Section ES_01-9",EG25,2,-6*9 = y/9*9,,,,,,,,0.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],8.0
+651,704623,242fhbKRf9,"Unit CTA1_04, Section CTA1_04-3",L2FB15C,1,R7C1,,,,,,,,1.0,,,,Using small numbers,127.0
+652,705147,242fhbKRf9,"Unit ES_02, Section ES_02-8",EG41,1,x1R1,,,,,,,,1.0,,,,-1,
+653,705522,242fhbKRf9,"Unit CTA1_13, Section CTA1_13-1",PROP13,1,R6C1,,,,,,,,0.0,,,,Entering a given,236.0
+654,706288,242fhbKRf9,"Unit CTA1_06, Section CTA1_06-4",BH1T52,2,yMin,,,,,,,,1.0,,,,Changing axis bounds,136.0
+655,706607,242fhbKRf9,"Unit ES_03, Section ES_03-6",EG52,2,-0.1x = 6.4,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",282.0
+656,706908,242fhbKRf9,"Unit CTA1_08, Section CTA1_08-3",NOV13,2,yScale,,,,,,,,1.0,,,,Changing axis intervals,96.0
+657,707370,242fhbKRf9,"Unit ES_04, Section ES_04-12",EG58,9,x2R1,,,,,,,,1.0,,,,-1,
+658,707911,242fhbKRf9,"Unit CTA1_10, Section CTA1_10-4",DISTFB07_SP,1,R3C1,,,,,,,,1.0,,,,Define Variable,140.0
+659,708431,242fhbKRf9,"Unit ES_07, Section ES_07-6",LIT78A,1,FinalAnswer,,,,,,,,0.0,,,,factor-sp,16.0
+660,708857,242fhbKRf9,"Unit CTA1_12, Section CTA1_12-6",SYS01,2,R6C2,,,,,,,,0.0,,,,-1,
+661,709122,242fhbKRf9,"Unit ES_05, Section ES_05-9",EG62A,1,-2571.09-510.12x = -7019.65,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",466.0
+662,709438,242fhbKRf9,"Unit CTA1_14, Section CTA1_14-3",2PTFB15,2,R7C1,,,,,,,,1.0,,,,Entering a given,567.0
+674,727647,80nlN05JQ6,"Unit CTA1_01, Section CTA1_01-3",BH1T27A,1,R5C1,,,,,,,,1.0,,,,Entering a given,27.0
+675,728018,80nlN05JQ6,"Unit CTA1_02, Section CTA1_02-4",L2FB14B,1,R7C1,,,,,,,,1.0,,,,Using simple numbers,130.0
+676,728368,80nlN05JQ6,"Unit ES_01, Section ES_01-8",EG25,2,x/8*8 = -1*8,,,,,,,,0.0,,,,-1,
+677,728667,80nlN05JQ6,"Unit CTA1_04, Section CTA1_04-3",L2FB15C,1,R3C2,,,,,,,,0.0,,,,Using small numbers,113.0
+678,729082,80nlN05JQ6,"Unit ES_02, Section ES_02-10",EG44,12,5x/5 = 3/5,,,,,,,,0.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],46.0
+679,729214,80nlN05JQ6,"Unit CTA1_13, Section CTA1_13-1",PROP06,1,R3C1,,,,,,,,1.0,,,,Define Variable,59.0
+680,729637,80nlN05JQ6,"Unit CTA1_06, Section CTA1_06-3",FOR05,2,R3C2,,,,,,,,1.0,,,,Using small numbers,193.0
+681,730299,80nlN05JQ6,"Unit ES_03, Section ES_03-7",LIT10,1,a-f = 0,,,,,,,,1.0,,,,-1,
+682,730534,80nlN05JQ6,"Unit CTA1_08, Section CTA1_08-3",NOV13,1,R1C1,,,,,,,,1.0,,,,-1,
+683,731164,80nlN05JQ6,"Unit ES_04, Section ES_04-15",LIT60,1,n*b*u+n*b*q-n*b*u = c*w-n*b*u,,,,,,,,1.0,,,,[SkillRule: Consolidate vars with coeff; CLT],121.0
+684,731477,80nlN05JQ6,"Unit CTA1_10, Section CTA1_10-4",DISTFB07_SP,2,R1C2,,,,,,,,1.0,,,,-1,
+685,731817,80nlN05JQ6,"Unit ES_07, Section ES_07-4",LIT68A,2,6h/6 = (c*g+8z+2j)/6,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],169.0
+686,732228,80nlN05JQ6,"Unit CTA1_12, Section CTA1_12-4",SYSFB23,1,R3C2,,,,,,,,0.0,,,,Using simple numbers,269.0
+687,732792,80nlN05JQ6,"Unit ES_05, Section ES_05-10",EG62A,1,-1130.63x = 8477.4,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",583.0
+688,733265,80nlN05JQ6,"Unit CTA1_14, Section CTA1_14-4",IPCTURDUCKEN,1,R6C2,,,,,,,,1.0,,,,Entering a given,557.0
+689,733494,80nlN05JQ6,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",XGE0,1,XCoordinate1_1,,,,,,,,1.0,,,,"Positive Constants, GLF",11.0
+690,733855,80nlN05JQ6,"Unit CTA1_15, Section CTA1_15-3",SYS09,1,-22000M = -450000,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",686.0
+691,734017,80nlN05JQ6,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE7TRE,1,R2C3,,,,,,,,1.0,,,,Identifying units,310.0
+692,734182,80nlN05JQ6,"Unit QUADRATICS-FACTORING_ES, Section QUADRATICS-FACTORING_ES-2",EG-FACTOR44,1,a-factor-1,,,,,,,,1.0,,,,-1,
+693,734606,80nlN05JQ6,"Unit QUADRATICS-SOLVING_ES, Section QUADRATICS-SOLVING_ES-1",EG-S-FACTOR13,1,(8?sqrt(8^2-4*7*1))/14 = x,,,,,,,,1.0,,,,-1,
+694,734889,80nlN05JQ6,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD6TRE,1,num1-factor-node,,,,,,,,0.0,,,,qft-num1-sp,26.0
+728,799198,4ajdr1a4Kc,"Unit CTA1_01, Section CTA1_01-3",L3NOV07A,2,R4C2,,,,,,,,0.0,,,,Using simple numbers,65.0
+729,799415,4ajdr1a4Kc,"Unit CTA1_02, Section CTA1_02-3",L3NOV10B,2,R3C2,,,,,,,,0.0,,,,Using simple numbers,122.0
+730,799821,4ajdr1a4Kc,"Unit ES_01, Section ES_01-11",EG27,5,-4*-1 = -y*-1,,,,,,,,1.0,,,,[SkillRule: Calculate negative coefficient; [Typein Skill: Make variable positive]],9.0
+731,799879,4ajdr1a4Kc,"Unit CTA1_04, Section CTA1_04-2",BH1T10A,1,R3C1,,,,,,,,0.0,,,,Define Variable,40.0
+733,802312,5g8708DBB0,"Unit ES_05, Section ES_05-5",EG60,6,-5x-6 = 4,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",23.0
+738,805934,w33QZ9Q64W,"Unit ES_05, Section ES_05-10",EG62,1,27.24x = -87.96,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",12.0
+739,806439,x64anap2Kz,"Unit ES_05, Section ES_05-10",EG62,6,-122.66y = 33.58,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",58.0
+740,806574,x64anap2Kz,"Unit CTA1_14, Section CTA1_14-1",LDEMO_PTY,2,R7C1,,,,,,,,1.0,,,,Using simple numbers,2.0
+741,811227,VHCF3iE0a4,"Unit CTA1_02, Section CTA1_02-4",L2FB14B,1,R4C1,,,,,,,,1.0,,,,Entering a given,10.0
+742,811327,VHCF3iE0a4,"Unit ES_01, Section ES_01-5",EG13,1,y = -9.1*3+8,,,,,,,,1.0,,,,"[SkillRule: Select Multiply/Divide, nested; {MT; MT no fraction coeff}]",16.0
+743,811551,VHCF3iE0a4,"Unit CTA1_04, Section CTA1_04-3",L2FB15,1,32.87 = 0.23T,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",24.0
+744,811686,VHCF3iE0a4,"Unit ES_02, Section ES_02-7",EG41,1,x/-10+4 = 6,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",35.0
+745,812057,VHCF3iE0a4,"Unit CTA1_14, Section CTA1_14-4",1PTFB12,1,-250 = -25D,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",90.0
+746,812324,VHCF3iE0a4,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",YLT250,1,xMax,,,,,,,,1.0,,,,-1,
+747,812661,VHCF3iE0a4,"Unit CTA1_15, Section CTA1_15-3",SYS09,1,R4C2,,,,,,,,0.0,,,,Using simple numbers,112.0
+748,812782,VHCF3iE0a4,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE4TRE,1,R6C3,,,,,,,,0.0,,,,-1,
+755,820819,jXc985G8qy,"Unit ES_04, Section ES_04-12",EG58A,6,constant termsR2,,,,,,,,1.0,,,,-1,
+756,821484,jXc985G8qy,"Unit ES_07, Section ES_07-4",LIT64A,1,y*j+z*u-j*c = j*c+g*x-j*c,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",44.0
+757,823236,rnOGP59582,"Unit ES_07, Section ES_07-6",LIT72A,1,n+q-q = c*s-q,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",1.0
+758,823491,rnOGP59582,"Unit ES_05, Section ES_05-10",EG62A,1,65.71y = -919.19-3253.49,,,,,,,,1.0,,,,[SkillRule: Consolidate vars with coeff; CLT],55.0
+759,823776,rnOGP59582,"Unit CTA1_01, Section CTA1_01-4",JAN13B,1,R1C1,,,,,,,,1.0,,,,-1,
+760,823932,rnOGP59582,"Unit CTA1_02, Section CTA1_02-3",L3NOV12C,1,YLabel,,,,,,,,1.0,,,,Labelling the axes,14.0
+761,824165,rnOGP59582,"Unit CTA1_04, Section CTA1_04-4",BH1T47A,1,R3C1,,,,,,,,1.0,,,,Define Variable,39.0
+770,837297,R440Y09vu3,"Unit CTA1_08, Section CTA1_08-3",BH1T07,1,Formula 1 Coeff 0,,,,,,,,1.0,,,,Setting the y-intercept,5.0
+771,837733,R440Y09vu3,"Unit ES_04, Section ES_04-15",LIT59,1,x+y = (v-s-b)/r,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",68.0
+772,838035,R440Y09vu3,"Unit CTA1_10, Section CTA1_10-5",DIST04_SP,1,0.25(D+56) = 64,,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",78.0
+773,838425,R440Y09vu3,"Unit ES_07, Section ES_07-6",LIT72A,1,n+q-q = c*s-q,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",71.0
+774,838505,R440Y09vu3,"Unit CTA1_12, Section CTA1_12-2",SYS03,1,XLabel,,,,,,,,0.0,,,,Labelling the axes,18.0
+793,853452,45oTz6NVkr,"Unit CTA1_13, Section CTA1_13-1",PROP13,2,2X = 630,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",8.0
+794,853619,45oTz6NVkr,"Unit CTA1_01, Section CTA1_01-3",BH1T34A,1,R1C1,,,,,,,,0.0,,,,-1,
+795,853781,45oTz6NVkr,"Unit CTA1_02, Section CTA1_02-2",BH1T35A,1,R8C1,,,,,,,,1.0,,,,Entering a given,95.0
+798,855177,cbgx682J78,"Unit CTA1_08, Section CTA1_08-3",L5FB02,1,yMin,,,,,,,,1.0,,,,Changing axis bounds,3.0
+799,855238,cbgx682J78,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS03,1,(4(x^5)(y^6))(y^6),,,,,,,,1.0,,,,-1,
+800,855281,cbgx682J78,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS03,2,(2(x^4)(y^6))/((x^4)(y^3)),,,,,,,,1.0,,,,-1,
+801,855305,cbgx682J78,"Unit CTA1_20, Section CTA1_20-1",IPCSWIMMING,1,R1C2,,,,,,,,0.0,,,,-1,
+802,855349,cua2tdf6zb,"Unit CTA1_24, Section CTA1_24-1",PERCENT07,1,R2C2,,,,,,,,1.0,,,,Identifying units,7.0
+818,857877,z2zuhnARi6,"Unit CTA1_01, Section CTA1_01-4",JAN04B,1,R5C2,,,,,,,,1.0,,,,Using simple numbers,10.0
+819,858024,z2zuhnARi6,"Unit CTA1_02, Section CTA1_02-3",L3NOV10C,1,R2C2,,,,,,,,1.0,,,,Identifying units,17.0
+825,859315,183ppvOXp8,"Unit CTA1_06, Section CTA1_06-5",FBSMR1,1,yMax,,,,,,,,1.0,,,,Changing axis bounds,8.0
+826,859482,183ppvOXp8,"Unit ES_03, Section ES_03-6",EG53,1,-3.7y-8.3+8.3 = -5+8.3,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",4.0
+827,859674,183ppvOXp8,"Unit CTA1_08, Section CTA1_08-2",FEB09,1,XUnit,,,,,,,,1.0,,,,-1,
+828,860081,183ppvOXp8,"Unit ES_04, Section ES_04-15",LIT60,1,n*b*q = c*w-n*b*u,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",118.0
+829,860404,183ppvOXp8,"Unit CTA1_10, Section CTA1_10-6",DISTFB10_SP,1,0.8X+5 = 14.6,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",136.0
+830,860505,183ppvOXp8,"Unit ES_05, Section ES_05-6",EG60,3,-10x/-10 = 15/-10,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],70.0
+836,869857,ck0GIf31rJ,"Unit CTA1_06, Section CTA1_06-5",FBSMR1,1,R5C1,,,,,,,,0.0,,,,Using simple numbers,26.0
+837,870274,ck0GIf31rJ,"Unit ES_03, Section ES_03-4",EG49,1,FinalAnswer,,,,,,,,1.0,,,,simplify-fractions-sp,22.0
+838,870710,ck0GIf31rJ,"Unit CTA1_08, Section CTA1_08-2",L3_DEMO,1,Formula 1 Coeff 0,,,,,,,,1.0,,,,Setting the y-intercept,9.0
+839,872171,H5p2L3L4hU,"Unit CTA1_06, Section CTA1_06-4",BH1T52,1,xMax,,,,,,,,1.0,,,,Changing axis bounds,64.0
+840,872514,H5p2L3L4hU,"Unit ES_03, Section ES_03-7",LIT1,1,s+r-r = t-r,,,,,,,,1.0,,,,"[SkillRule: Consolidate vars, no coeff; CLT]",37.0
+841,872646,H5p2L3L4hU,"Unit CTA1_08, Section CTA1_08-2",DEMO_8,1,R2C2,,,,,,,,1.0,,,,Identifying units,47.0
+842,874226,m9a501e1MM,"Unit CTA1_12, Section CTA1_12-6",SYSFB11,1,R7C3,,,,,,,,1.0,,,,Entering a given,29.0
+843,874448,m9a501e1MM,"Unit ES_05, Section ES_05-12",LIT85,1,Y = -17/6+4X/6,,,,,,,,1.0,,,,-1,
+844,874909,m9a501e1MM,"Unit CTA1_14, Section CTA1_14-4",LDEMO_PTPT,1,R5C1,,,,,,,,1.0,,,,Using simple numbers,91.0
+845,875182,m9a501e1MM,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",YGE4X-11,1,GraphChoice1,,,,,,,,1.0,,,,-1,
+846,875313,m9a501e1MM,"Unit CTA1_15, Section CTA1_15-2",SYSFB09,1,14.95+0.13X = 50,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",111.0
+847,879864,k37lfl6ENf,"Unit ES_02, Section ES_02-10",EG44,3,-9/x = -2,,,,,,,,1.0,,,,"[SkillRule: Variable in denominator; {a/x=[anything]; a/x=b; a/x=b, sophisticated}]",7.0
+852,884119,3k85qY4Y2B,"Unit ES_07, Section ES_07-6",LIT78A,3,k*j = (r*s+m*j)/n,,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",11.0
+853,884543,3k85qY4Y2B,"Unit CTA1_12, Section CTA1_12-5",SYSFB24,1,13200 = 700M,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",19.0
+854,884720,3k85qY4Y2B,"Unit ES_05, Section ES_05-5",EG60,4,-16x = 9,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",110.0
+855,884921,448d2Kv3hw,"Unit CTA1_08, Section CTA1_08-3",FEB08,2,yMax,,,,,,,,0.0,,,,Changing axis bounds,16.0
+856,885264,448d2Kv3hw,"Unit ES_04, Section ES_04-14",LIT22A,1,7s+z = c,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",50.0
+857,885555,448d2Kv3hw,"Unit CTA1_10, Section CTA1_10-3",DISTFB06_SP,1,R3C1,,,,,,,,1.0,,,,Define Variable,24.0
+858,885876,448d2Kv3hw,"Unit ES_07, Section ES_07-4",LIT70A,1,r*(-u-w) = x*s-6u,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",113.0
+859,886006,448d2Kv3hw,"Unit CTA1_12, Section CTA1_12-2",SYS03,2,-8M-10 = -58,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",135.0
+860,887012,c7A4cZK28M,"Unit CTA1_08, Section CTA1_08-3",BH1T07,1,R1C1,,,,,,,,1.0,,,,-1,
+861,887351,c7A4cZK28M,"Unit ES_04, Section ES_04-13",LIT29,1,2/s+u-u = y-u,,,,,,,,1.0,,,,[SkillRule: Consolidate vars with coeff; CLT],17.0
+862,887794,c7A4cZK28M,"Unit CTA1_10, Section CTA1_10-6",DISTFB10_SP,1,R1C2,,,,,,,,1.0,,,,-1,
+863,888021,c7A4cZK28M,"Unit ES_07, Section ES_07-4",LIT70A,1,(6u-x*s)/(w+u) = r*(w+u)/(w+u),,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],61.0
+864,888131,c7A4cZK28M,"Unit CTA1_12, Section CTA1_12-2",SYSFB17,1,R2C2,,,,,,,,0.0,,,,Identifying units,56.0
+879,901797,Exz0X2naK1,"Unit CTA1_02, Section CTA1_02-4",REAL28,1,R2C2,,,,,,,,0.0,,,,Identifying units,7.0
+880,901823,Exz0X2naK1,"Unit ES_01, Section ES_01-1",EG4,1,9(4+2),,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",3.0
+881,902095,Exz0X2naK1,"Unit CTA1_08, Section CTA1_08-3",JAN12,1,R3C1,,,,,,,,1.0,,,,Define Variable,26.0
+882,902206,Exz0X2naK1,"Unit ES_04, Section ES_04-3",EG54,2,7 = 2(y+1),,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",6.0
+883,902267,Exz0X2naK1,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS02,1,FinalAnswer,,,,,,,,1.0,,,,perform-mult-sp,16.0
+884,902376,Exz0X2naK1,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-2",EG-EQS09,2,row3-N-constant factors,,,,,,,,1.0,,,,-1,
+885,909135,5Q69X4zFkC,"Unit CTA1_06, Section CTA1_06-3",JAN06,1,R2C2,,,,,,,,1.0,,,,Identifying units,19.0
+886,914242,q1Yar3mIhE,"Unit CTA1_13, Section CTA1_13-1",PROP13,1,R5C1,,,,,,,,1.0,,,,Entering a given,14.0
+887,914431,q1Yar3mIhE,"Unit CTA1_06, Section CTA1_06-2",DEC02,4,xMin,,,,,,,,1.0,,,,Changing axis bounds,29.0
+888,915919,vkQ059OE0u,"Unit CTA1_04, Section CTA1_04-2",PERCENT03A,1,R7C1,,,,,,,,1.0,,,,Using small numbers,23.0
+889,916225,vkQ059OE0u,"Unit ES_02, Section ES_02-6",EG40,3,-7y+0 = 9,,,,,,,,1.0,,,,[SkillRule: Consolidate vars with coeff; CLT],42.0
+890,919724,162lfGskK2,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS01,2,(6(x^2)(y^2))(2(x^2)(y^6)),,,,,,,,1.0,,,,-1,
+891,919764,162lfGskK2,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS01,1,FinalAnswer,,,,,,,,1.0,,,,simplify-fractions-sp,17.0
+892,920718,7esK30uHH1,"Unit ES_01, Section ES_01-8",EG24,2,-4/-8 = -8x/-8,,,,,,,,1.0,,,,-1,
+893,920914,7esK30uHH1,"Unit ES_02, Section ES_02-6",EG40,3,-11/5 = 5y/5,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],6.0
+894,921185,7esK30uHH1,"Unit CTA1_01, Section CTA1_01-4",REAL32C,2,R4C1,,,,,,,,1.0,,,,Entering a given,40.0
+895,921381,7esK30uHH1,"Unit CTA1_02, Section CTA1_02-2",BH1T21C,1,xMax,,,,,,,,1.0,,,,Changing axis bounds,26.0
+896,921538,DZXDgO0B3u,"Unit CTA1_08, Section CTA1_08-3",NOV13,1,R3C1,,,,,,,,1.0,,,,Define Variable,10.0
+897,921610,DZXDgO0B3u,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-2",EG-EPS09,2,FinalAnswer,,,,,,,,1.0,,,,perform-mult-sp,8.0
+898,921941,DZXDgO0B3u,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS03,3,row1-D-x,,,,,,,,1.0,,,,-1,
+899,922538,hK3QE3xOF8,"Unit CTA1_02, Section CTA1_02-4",REAL28,1,YLabel,,,,,,,,1.0,,,,Labelling the axes,3.0
+900,922554,hK3QE3xOF8,"Unit CTA1_08, Section CTA1_08-1",LDEMO_MBGRPH,1,Intercept Field 1,,,,,,,,0.0,,,,Entering the y-intercept,1.0
+901,923986,Ud9p3KH6Bv,"Unit CTA1_01, Section CTA1_01-4",JAN04B,1,R2C2,,,,,,,,0.0,,,,Identifying units,14.0
+902,924191,Ud9p3KH6Bv,"Unit CTA1_02, Section CTA1_02-3",L3NOV12A,2,xScale,,,,,,,,1.0,,,,Changing axis intervals,16.0
+903,924408,XHm4u4Y8OU,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS03,2,(5(x^6)(y^5))(y^2),,,,,,,,1.0,,,,-1,
+904,924469,XHm4u4Y8OU,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-2",EG-EQS07,3,(6y^3)/y^5,,,,,,,,1.0,,,,-1,
+905,926212,FD5m13We02,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS01,1,yR2,,,,,,,,1.0,,,,perform-mult-row2-sp,17.0
+906,926411,FD5m13We02,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS01-FIXED,1,row1-N-x,,,,,,,,1.0,,,,-1,
+907,926444,FD5m13We02,"Unit CTA1_24, Section CTA1_24-1",PERCENT07,1,R1C2,,,,,,,,1.0,,,,-1,
+908,926502,GlZwe88Gzo,"Unit CTA1_02, Section CTA1_02-4",L2FB14C,1,R7C2,,,,,,,,1.0,,,,Entering a given,10.0
+909,926588,GlZwe88Gzo,"Unit ES_01, Section ES_01-5",EG13,1,10+6.5 = y,,,,,,,,1.0,,,,[SkillRule: Select Combine Terms; CLT],10.0
+910,926826,GlZwe88Gzo,"Unit CTA1_08, Section CTA1_08-3",NOV13,1,YLabel,,,,,,,,1.0,,,,Labelling the axes,34.0
+911,926858,GlZwe88Gzo,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-2",EG-EPS09,2,FinalAnswer,,,,,,,,1.0,,,,perform-mult-sp,19.0
+912,926907,GlZwe88Gzo,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS02,1,(5(x^2)(y^3))/y^2,,,,,,,,1.0,,,,-1,
+913,927724,XT7r2I6hmm,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS02,1,(4(x^2)(y^2))/y^3,,,,,,,,1.0,,,,-1,
+914,927731,XT7r2I6hmm,"Unit CTA1_20, Section CTA1_20-1",1PTFB16,1,R6C1,,,,,,,,0.0,,,,Entering a given,3.0
+915,928856,45euP7C062,"Unit ES_04, Section ES_04-15",LIT54,1,k*x+k*t-k*t = b-k*t,,,,,,,,1.0,,,,[SkillRule: Consolidate vars with coeff; CLT],25.0
+916,929125,45euP7C062,"Unit CTA1_10, Section CTA1_10-3",DISTFB06_SP,1,0.3(J-100000) = 202500,,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",61.0
+917,929467,45euP7C062,"Unit ES_07, Section ES_07-4",LIT62A,2,c*j-n*q = -w*u-s*u,,,,,,,,1.0,,,,[SkillRule: Extract to consolidate vars; {factor; factorb; factorc; factord}],26.0
+918,929618,45euP7C062,"Unit CTA1_12, Section CTA1_12-2",SYS03,1,yMin,,,,,,,,1.0,,,,Changing axis bounds,6.0
+919,929770,46K8Eq75fJ,"Unit CTA1_04, Section CTA1_04-3",BH1T41C,2,ValidEquations,,,,,,,,1.0,,,,-1,
+920,929980,46K8Eq75fJ,"Unit ES_02, Section ES_02-5",EG40,5,-4x/(-4x) = 4/(-4x),,,,,,,,1.0,,,,-1,
+921,930058,4EUt9uDfjG,"Unit ES_01, Section ES_01-9",EG26,1,9*-6 = x/-6*-6,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],3.0
+922,930097,4EUt9uDfjG,"Unit CTA1_04, Section CTA1_04-2",BH1T36,1,R2C2,,,,,,,,1.0,,,,Identifying units,4.0
+923,936070,p5CPTG2423,"Unit CTA1_02, Section CTA1_02-3",L3NOV12A,2,xScale,,,,,,,,1.0,,,,Changing axis intervals,17.0
+924,936228,p5CPTG2423,"Unit ES_01, Section ES_01-2",EG2,3,1+60,,,,,,,,0.0,,,,[SkillRule: Consolidate vars with coeff; CLT],11.0
+925,939867,xH487WMLoS,"Unit ES_04, Section ES_04-16",LIT59A,1,s*y+s*z = w-t-c,,,,,,,,0.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",3.0
+926,940090,xH487WMLoS,"Unit CTA1_10, Section CTA1_10-4",DIST02_SP,1,R7C1,,,,,,,,1.0,,,,Using simple numbers,20.0
+927,940368,xH487WMLoS,"Unit ES_07, Section ES_07-6",LIT79A,1,4y+5r = 2v-9s,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",59.0
+928,940578,xH487WMLoS,"Unit CTA1_12, Section CTA1_12-4",SYSFB04,1,-185+35H = 0,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",72.0
+929,940869,xH487WMLoS,"Unit ES_05, Section ES_05-8",EG61,3,2.09y+2.76+3.77 = -3.77+3.26y+3.77,,,,,,,,1.0,,,,-1,
+930,942197,0nF0z1401O,"Unit ES_04, Section ES_04-16",LIT55,1,(y-3)/m = m*(x-7)/m,,,,,,,,1.0,,,,[SkillRule: Calculate Eliminate Parens; [Typein Skill: Eliminate Parens]],7.0
+931,942282,0nF0z1401O,"Unit ES_07, Section ES_07-4",LIT62A,1,di-expr,,,,,,,,1.0,,,,-1,
+932,942580,6ghrwY35fW,"Unit ES_03, Section ES_03-8",LIT17A,1,row3-N-constant factors,,,,,,,,1.0,,,,-1,
+933,942746,6ghrwY35fW,"Unit ES_04, Section ES_04-4",EG54,11,-4 = 9(x+6),,,,,,,,0.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",16.0
+934,944709,b4WRCgbjkN,"Unit ES_04, Section ES_04-14",LIT28A,1,row3-D-j,,,,,,,,1.0,,,,-1,
+935,946149,b4WRCgbjkN,"Unit ES_07, Section ES_07-6",LIT80A,1,c*z+z*s = n*t-f*b+2+r*g,,,,,,,,0.0,,,,[SkillRule: Extract to consolidate vars; {factor; factorb; factorc; factord}],61.0
+936,949146,qvGwtJZv09,"Unit ES_04, Section ES_04-15",LIT58,1,b+n = (r+f-7)/y,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",8.0
+937,949376,qvGwtJZv09,"Unit ES_07, Section ES_07-4",LIT70A,2,u*6+u*-r-u*-r = x*s+r*w-u*-r,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",28.0
+938,949636,qvGwtJZv09,"Unit ES_05, Section ES_05-8",EG61,4,constant terms1R1,,,,,,,,1.0,,,,-1,
+939,949998,R398qG76GC,"Unit ES_05, Section ES_05-10",EG62A,2,9179.75 = 13.76x-2909.07+2909.07,,,,,,,,1.0,,,,[SkillRule: Consolidate vars with coeff; CLT],67.0
+940,950393,R398qG76GC,"Unit CTA1_01, Section CTA1_01-4",REAL32B,1,R2C2,,,,,,,,1.0,,,,Identifying units,28.0
+941,950708,R398qG76GC,"Unit CTA1_02, Section CTA1_02-4",L2FB14C,1,R1C2,,,,,,,,1.0,,,,-1,
+942,950754,R398qG76GC,"Unit CTA1_04, Section CTA1_04-1",LDEMO_WSLVR,1,R3C1,,,,,,,,0.0,,,,Define Variable,37.0
+943,953584,txnqGG764s,"Unit ES_04, Section ES_04-14",LIT29A,1,2/(z-v) = (z-v)*t/(z-v),,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],25.0
+944,953793,txnqGG764s,"Unit ES_07, Section ES_07-4",LIT63A,1,z*nR2,,,,,,,,1.0,,,,-1,
+945,954213,txnqGG764s,"Unit ES_05, Section ES_05-10",EG62,1,y1R1,,,,,,,,1.0,,,,-1,
+946,954416,txnqGG764s,"Unit CTA1_01, Section CTA1_01-3",BH1T33C,1,R3C1,,,,,,,,1.0,,,,Define Variable,14.0
+947,954709,txnqGG764s,"Unit CTA1_02, Section CTA1_02-3",L3NOV10C,1,R6C2,,,,,,,,1.0,,,,Using simple numbers,122.0
+948,956895,93YVE85s1x,"Unit CTA1_08, Section CTA1_08-3",JAN12,1,Intercept Field 1,,,,,,,,1.0,,,,Entering the y-intercept,12.0
+949,957119,93YVE85s1x,"Unit ES_04, Section ES_04-13",LIT20,1,r/c = d-b,,,,,,,,0.0,,,,"[SkillRule: Variable in denominator; {a/x=[anything]; a/x=b; a/x=b, sophisticated}]",2.0
+950,957494,93YVE85s1x,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R7C1,,,,,,,,1.0,,,,Using simple numbers,34.0
+951,957669,93YVE85s1x,"Unit ES_07, Section ES_07-4",LIT63A,1,di-expr,,,,,,,,1.0,,,,-1,
+952,957865,93YVE85s1x,"Unit CTA1_12, Section CTA1_12-4",SYSFB04,1,R3C1,,,,,,,,1.0,,,,Define Variable,40.0
+953,958078,9iQ6dU8Ooj,"Unit ES_03, Section ES_03-7",LIT6,1,r = f/-1,,,,,,,,1.0,,,,-1,
+954,958361,9iQ6dU8Ooj,"Unit CTA1_08, Section CTA1_08-3",FEB08,1,R3C2,,,,,,,,0.0,,,,Using simple numbers,10.0
+955,958734,9iQ6dU8Ooj,"Unit ES_04, Section ES_04-14",LIT27A,1,r1R1,,,,,,,,1.0,,,,-1,
+956,958977,9iQ6dU8Ooj,"Unit CTA1_10, Section CTA1_10-2",DIST03_SP,1,R1C2,,,,,,,,0.0,,,,-1,
+957,959089,auW9kr3fh6,"Unit CTA1_06, Section CTA1_06-4",BH1T51,1,R3C1,,,,,,,,1.0,,,,Define Variable,5.0
+958,959358,auW9kr3fh6,"Unit ES_03, Section ES_03-6",EG52,2,-3y+y = -13.4,,,,,,,,1.0,,,,"[SkillRule: Consolidate vars, no coeff; CLT]",27.0
+959,959728,auW9kr3fh6,"Unit CTA1_08, Section CTA1_08-3",BH1T07,1,R2C1,,,,,,,,0.0,,,,Identifying units,37.0
+960,959991,auW9kr3fh6,"Unit ES_04, Section ES_04-12",EG58,1,xR2,,,,,,,,1.0,,,,-1,
+961,961524,Ds3B2dRQo8,"Unit CTA1_06, Section CTA1_06-5",FBSMR1,1,R1C1,,,,,,,,0.0,,,,-1,
+962,961723,Ds3B2dRQo8,"Unit ES_03, Section ES_03-5",EG52,1,10.2y = -4.8-8.9,,,,,,,,1.0,,,,[SkillRule: Consolidate vars with coeff; CLT],22.0
+963,961953,Ds3B2dRQo8,"Unit CTA1_08, Section CTA1_08-2",BH1T04,1,XUnit,,,,,,,,1.0,,,,-1,
+964,962585,Ds3B2dRQo8,"Unit ES_04, Section ES_04-13",LIT36,1,-n = 6z,,,,,,,,0.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",130.0
+965,964109,JU5Ms0pxvu,"Unit CTA1_06, Section CTA1_06-5",FBSMR3,1,R5C1,,,,,,,,1.0,,,,Using small numbers,48.0
+966,964377,JU5Ms0pxvu,"Unit ES_03, Section ES_03-8",LIT11A,2,2-n-2 = t-2,,,,,,,,0.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",13.0
+967,964543,JU5Ms0pxvu,"Unit CTA1_08, Section CTA1_08-3",REAL10,1,R1C2,,,,,,,,1.0,,,,-1,
+968,964831,JU5Ms0pxvu,"Unit ES_04, Section ES_04-13",LIT37,1,-y/t = -t*x/(-t),,,,,,,,1.0,,,,-1,
+969,965296,MCA1W52H2T,"Unit CTA1_06, Section CTA1_06-5",FBSMR2,1,R6C2,,,,,,,,1.0,,,,Entering a given,64.0
+970,965470,MCA1W52H2T,"Unit ES_03, Section ES_03-6",EG53A,1,-21.6-38 = 38.8y-y+38-38,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",7.0
+971,965760,MCA1W52H2T,"Unit CTA1_08, Section CTA1_08-3",L5FB02,1,YLabel,,,,,,,,1.0,,,,Labelling the axes,69.0
+972,966118,MCA1W52H2T,"Unit ES_04, Section ES_04-16",LIT55,1,(y-3)+m*7 = m*x-m*7+m*7,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",42.0
+973,966264,MCA1W52H2T,"Unit CTA1_10, Section CTA1_10-3",DISTFB05_SP,1,R3C1,,,,,,,,1.0,,,,Define Variable,47.0
+974,967987,t3dx1x27e1,"Unit CTA1_06, Section CTA1_06-3",BH1T43,1,R3C1,,,,,,,,1.0,,,,Define Variable,19.0
+975,968281,Uv4cSe2ijd,"Unit ES_02, Section ES_02-8",EG41,1,row3-N-x,,,,,,,,1.0,,,,-1,
+976,968465,Uv4cSe2ijd,"Unit CTA1_13, Section CTA1_13-1",PROP12,2,R6C2,,,,,,,,0.0,,,,"Find Y, Simple",2.0
+977,968785,Uv4cSe2ijd,"Unit CTA1_06, Section CTA1_06-3",FEB04,1,R4C1,,,,,,,,1.0,,,,Using small numbers,57.0
+978,969444,Uv4cSe2ijd,"Unit ES_03, Section ES_03-8",LIT18A,1,row2u,,,,,,,,1.0,,,,-1,
+979,969472,Uv4cSe2ijd,"Unit CTA1_08, Section CTA1_08-2",L1FB13,1,R3C1,,,,,,,,1.0,,,,Define Variable,32.0
+980,973120,YtB3X13RXe,"Unit CTA1_06, Section CTA1_06-4",JAN09,2,yMax,,,,,,,,1.0,,,,Changing axis bounds,55.0
+981,973429,YtB3X13RXe,"Unit ES_03, Section ES_03-8",LIT10A,1,g = -1(0-b),,,,,,,,0.0,,,,-1,
+982,973460,YtB3X13RXe,"Unit CTA1_08, Section CTA1_08-2",REAL30,1,yMax,,,,,,,,0.0,,,,Changing axis bounds,70.0
+983,979310,i0FfLG15di,"Unit CTA1_06, Section CTA1_06-4",BH1T52,1,R4C1,,,,,,,,1.0,,,,Using simple numbers,15.0
+984,979650,i0FfLG15di,"Unit ES_03, Section ES_03-7",LIT7,1,g = u/(-b),,,,,,,,1.0,,,,-1,
+985,979858,i0FfLG15di,"Unit CTA1_08, Section CTA1_08-3",NOV13,1,XLabel,,,,,,,,1.0,,,,Labelling the axes,58.0
+986,979970,i0FfLG15di,"Unit ES_04, Section ES_04-6",EG55,2,-7.9(y+1.8) = 0,,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",14.0
+987,980216,merKN5i5Of,"Unit ES_02, Section ES_02-10",EG44,3,row3-N-constant factors,,,,,,,,1.0,,,,-1,
+988,981918,st945Ucdi6,"Unit CTA1_06, Section CTA1_06-5",FBSMR3,2,XLabel,,,,,,,,1.0,,,,Labelling the axes,16.0
+989,982186,st945Ucdi6,"Unit ES_03, Section ES_03-7",LIT10,1,-f = 0-a,,,,,,,,1.0,,,,"[SkillRule: Consolidate vars, no coeff; CLT]",31.0
+990,982475,st945Ucdi6,"Unit CTA1_08, Section CTA1_08-3",REAL10,1,R3C1,,,,,,,,1.0,,,,Define Variable,25.0
+991,982743,st945Ucdi6,"Unit ES_04, Section ES_04-12",EG58A,1,constant factors2R1,,,,,,,,1.0,,,,-1,
+992,985745,694Y3fju01,"Unit ES_04, Section ES_04-16",LIT59A,1,c+s*y+s*z-(c+s*y) = w-t-(c+s*y),,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",1.0
+993,986046,694Y3fju01,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R5C1,,,,,,,,1.0,,,,Entering a given,63.0
+994,986243,694Y3fju01,"Unit ES_07, Section ES_07-4",LIT65A,1,k*(-m-s)/(-m-s) = (n*t-h*q)/(-m-s),,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],11.0
+995,986639,694Y3fju01,"Unit CTA1_12, Section CTA1_12-6",SYSFB03,1,R2C1,,,,,,,,1.0,,,,Identifying units,58.0
+996,986765,694Y3fju01,"Unit ES_05, Section ES_05-8",EG61,1,-9.64+(-1.06y) = 7.4,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",106.0
+997,987187,694Y3fju01,"Unit CTA1_14, Section CTA1_14-4",IPCTURDUCKEN,1,25-(4/10)*D = 0,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",159.0
+998,987653,694Y3fju01,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",YGT5X+12,1,XCoordinate1_2,,,,,,,,1.0,,,,"Positive Constants, SIF",14.0
+999,987834,694Y3fju01,"Unit CTA1_15, Section CTA1_15-2",SYSFB14,1,R1C2,,,,,,,,1.0,,,,-1,
+1000,998854,QUcO70Q91P,"Unit ES_03, Section ES_03-7",LIT1,1,s+r = t,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",17.0
+1001,999034,QUcO70Q91P,"Unit CTA1_08, Section CTA1_08-2",FEB09,1,Formula 1 Coeff 0,,,,,,,,0.0,,,,Setting the y-intercept,11.0
+1002,999608,QUcO70Q91P,"Unit ES_04, Section ES_04-16",LIT57A,1,n+3-3 = (b-c)/j-3,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",48.0
+1003,999780,QUcO70Q91P,"Unit CTA1_10, Section CTA1_10-3",DISTFB04_SP,1,160 = 1.25X,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",47.0
+1004,999953,QUcO70Q91P,"Unit ES_07, Section ES_07-1",LIT52,1,(g*r+5n)/(y+r) = f*(y+r)/(y+r),,,,,,,,1.0,,,,-1,
+1005,1003198,zUlk9c7UEv,"Unit CTA1_06, Section CTA1_06-4",L6FB07,2,6.44T+325 = 2500,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",18.0
+1006,1003712,zUlk9c7UEv,"Unit ES_03, Section ES_03-7",LIT4,1,a*h/a = w/a,,,,,,,,1.0,,,,-1,
+1007,1003937,zUlk9c7UEv,"Unit CTA1_08, Section CTA1_08-3",NOV13,1,XLabel,,,,,,,,1.0,,,,Labelling the axes,68.0
+1008,1004265,zUlk9c7UEv,"Unit ES_04, Section ES_04-13",LIT46,1,3/n*n = -5h*n,,,,,,,,0.0,,,,-1,
+1009,1004444,zUlk9c7UEv,"Unit CTA1_10, Section CTA1_10-2",DIST09_SP,1,R5C1,,,,,,,,1.0,,,,Using simple numbers,55.0
+1010,1004550,pXs7s2k8Jv,"Unit ES_02, Section ES_02-6",EG40,6,row2constant factors,,,,,,,,1.0,,,,-1,
+1011,1004817,1k3GIfwBw6,"Unit ES_04, Section ES_04-14",LIT30A,1,INNERn1,,,,,,,,1.0,,,,-1,
+1012,1005225,1k3GIfwBw6,"Unit CTA1_10, Section CTA1_10-6",DISTFB12_SP,1,R4C1,,,,,,,,1.0,,,,Entering a given,71.0
+1013,1005457,1k3GIfwBw6,"Unit ES_07, Section ES_07-4",LIT63A,2,n*t-h*r+h*r = c*j+z*n+h*r,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",49.0
+1014,1005501,1k3GIfwBw6,"Unit CTA1_12, Section CTA1_12-1",LDEMO_SYS,1,R4C1,,,,,,,,1.0,,,,Entering a given,73.0
+1015,1005662,1k3GIfwBw6,"Unit ES_05, Section ES_05-9",EG62A,3,1016.09y = -8267.12,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",64.0
+1016,1005775,1k3GIfwBw6,"Unit CTA1_14, Section CTA1_14-2",1PTFB11,1,"-5M = -1,260",,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",181.0
+1017,1006822,7tV3w3qB6t,"Unit CTA1_06, Section CTA1_06-3",FOR05,1,yMax,,,,,,,,1.0,,,,Changing axis bounds,41.0
+1018,1008076,F9WJ1RKM4L,"Unit CTA1_08, Section CTA1_08-3",DEC04,1,yMax,,,,,,,,1.0,,,,Changing axis bounds,6.0
+1019,1008454,F9WJ1RKM4L,"Unit ES_04, Section ES_04-16",LIT58A,1,7+z*(c+q)-7 = s+g-7,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",32.0
+1020,1008550,F9WJ1RKM4L,"Unit CTA1_10, Section CTA1_10-2",DIST03_SP,1,R2C2,,,,,,,,1.0,,,,Identifying units,17.0
+1021,1008702,hgivhSMgnH,"Unit CTA1_06, Section CTA1_06-4",L6FB07,1,6.44T+325 = 2500,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",5.0
+1022,1008903,i5Y9A05Ph8,"Unit ES_03, Section ES_03-8",LIT2A,1,c1R1,,,,,,,,1.0,,,,-1,
+1023,1009082,i5Y9A05Ph8,"Unit CTA1_08, Section CTA1_08-2",FEB02,1,R3C1,,,,,,,,1.0,,,,Define Variable,11.0
+1024,1009434,i5Y9A05Ph8,"Unit ES_04, Section ES_04-13",LIT28,1,h/b+2 = z,,,,,,,,1.0,,,,"[SkillRule: Variable in denominator; {a/x=[anything]; a/x=b; a/x=b, sophisticated}]",2.0
+1025,1009799,i5Y9A05Ph8,"Unit CTA1_10, Section CTA1_10-3",DISTFB06_SP,1,0.3D = 232500,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",44.0
+1026,1010117,i5Y9A05Ph8,"Unit ES_07, Section ES_07-4",LIT66A,1,-x*z+x*s = t*n+c*h,,,,,,,,1.0,,,,[SkillRule: Extract to consolidate vars; {factor; factorb; factorc; factord}],23.0
+1027,1010204,i5Y9A05Ph8,"Unit ES_05, Section ES_05-4",EG59A,1,-68/-114 = -114y/-114,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],69.0
+1028,1015269,rE6U5574qn,"Unit CTA1_06, Section CTA1_06-5",FBSMR2,1,R4C1,,,,,,,,1.0,,,,Entering a given,11.0
+1029,1015518,rE6U5574qn,"Unit ES_03, Section ES_03-8",LIT10A,1,constant terms1R1,,,,,,,,1.0,,,,-1,
+1030,1015785,rE6U5574qn,"Unit CTA1_08, Section CTA1_08-3",JAN12,1,Intercept Field 1,,,,,,,,0.0,,,,Entering the y-intercept,18.0
+1031,1015993,rE6U5574qn,"Unit ES_04, Section ES_04-14",LIT27A,1,6r/6 = (90-g)/6,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],33.0
+1032,1016258,rE6U5574qn,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R3C2,,,,,,,,1.0,,,,Using simple numbers,35.0
+1033,1016388,rE6U5574qn,"Unit ES_07, Section ES_07-4",LIT66A,1,-x*z-c*h+x*s+c*h = t*n+c*h,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",49.0
+1034,1016464,rE6U5574qn,"Unit CTA1_12, Section CTA1_12-1",LDEMO_SYS,1,xMax,,,,,,,,1.0,,,,Changing axis bounds,48.0
+1035,1016580,rE6U5574qn,"Unit ES_05, Section ES_05-9",EG62A,1,9033.71-489.11y = -93.36y-3033.95,,,,,,,,1.0,,,,"[SkillRule: Consolidate vars, any; {Combine variables to right, sub; Combine variables to right, add; Combine variables to right, gen; Combine variables to right; Combine variables to left, add; Combine variables to left, sub; Combine variables to left, gen; ax+b=cx; ax+b=cx, move left; ax+b=cx+d, pos; ax+b=cx+d, neg; ax+b=cx+d, move right; ax+b=cx+d, move two; ax+b=cx+d, move two2; x+b=cx+d, pos; x+b=cx+d, neg; x+b=cx+d, move right; x+b=cx+d, move two; x+b=cx+d, move two2; ax+b=x+d, pos; ax+b=x+d, neg; ax+b=x+d, move right; ax+b=x+d, move two; ax+b=x+d, move two2; x+b=x+d, pos; x+b=x+d, neg; x+b=x+d, move right; x+b=x+d, move two; x+b=x+d, move two2}]",25.0
+1036,1016597,Rl6LafSUXj,"Unit ES_02, Section ES_02-10",EG44,1,row2x,,,,,,,,0.0,,,,-1,
+1037,1016712,Rl6LafSUXj,"Unit CTA1_13, Section CTA1_13-1",PROP13,1,R2C1,,,,,,,,1.0,,,,Identifying units,5.0
+1038,1017329,Rl6LafSUXj,"Unit CTA1_06, Section CTA1_06-5",FBSMR1,1,R2C1,,,,,,,,1.0,,,,Identifying units,46.0
+1039,1017521,Rl6LafSUXj,"Unit ES_03, Section ES_03-5",EG51,1,0.1y = 8.4,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",38.0
+1040,1020097,2kb387yOiG,"Unit ES_02, Section ES_02-10",EG44,6,row1-N-constant factors,,,,,,,,1.0,,,,-1,
+1041,1020163,2kb387yOiG,"Unit CTA1_13, Section CTA1_13-1",PROP12,1,R5C1,,,,,,,,1.0,,,,Entering a given,22.0
+1042,1020764,2kb387yOiG,"Unit CTA1_06, Section CTA1_06-4",L6FB19,1,R4C1,,,,,,,,1.0,,,,Entering a given,114.0
+1043,1021253,2kb387yOiG,"Unit ES_03, Section ES_03-6",EG52,1,17.3/9.1 = 9.1x/9.1,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],29.0
+1044,1021667,2kb387yOiG,"Unit CTA1_08, Section CTA1_08-3",JAN12,1,Intercept Field 1,,,,,,,,0.0,,,,Entering the y-intercept,4.0
+1045,1022713,2kb387yOiG,"Unit ES_04, Section ES_04-16",LIT58A,1,row1-N-z,,,,,,,,1.0,,,,-1,
+1046,1022813,2kb387yOiG,"Unit CTA1_10, Section CTA1_10-2",REAL18_SP,1,R5C1,,,,,,,,1.0,,,,Entering a given,145.0
+1047,1029094,jdT9cZAxyb,"Unit ES_05, Section ES_05-12",LIT39,1,y = m*x+b,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",39.0
+1048,1029531,jdT9cZAxyb,"Unit CTA1_14, Section CTA1_14-4",2PTFB14,1,R1C1,,,,,,,,1.0,,,,-1,
+1049,1029896,jdT9cZAxyb,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",P-3X-YLT6,1,XCoordinate1_1,,,,,,,,1.0,,,,"Negative Constant, GLF",24.0
+1050,1030273,jdT9cZAxyb,"Unit CTA1_15, Section CTA1_15-3",SYS06,1,xScale,,,,,,,,1.0,,,,Changing axis intervals,13.0
+1051,1032713,uz40H610bF,"Unit ES_03, Section ES_03-8",LIT5A,2,n/r*r = y*r,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],1.0
+1052,1032935,uz40H610bF,"Unit CTA1_08, Section CTA1_08-3",PERCENT12,1,yMin,,,,,,,,1.0,,,,Changing axis bounds,25.0
+1053,1033537,uz40H610bF,"Unit ES_04, Section ES_04-14",LIT37A,1,z/(-u) = -u*y/(-u),,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],40.0
+1054,1033793,uz40H610bF,"Unit CTA1_10, Section CTA1_10-4",FOR08_SP,1,R1C1,,,,,,,,1.0,,,,-1,
+1055,1034190,uz40H610bF,"Unit ES_07, Section ES_07-5",LIT73,1,d = r*t,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",138.0
+1056,1036885,wz0V4oY4Z2,"Unit CTA1_06, Section CTA1_06-5",FBSMR3,2,0.99-0.05P = 0.44,,,,,,,,0.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",36.0
+1057,1037261,wz0V4oY4Z2,"Unit ES_03, Section ES_03-8",LIT11A,1,n1R1,,,,,,,,0.0,,,,-1,
+1058,1038209,Y5XkapASsg,"Unit CTA1_06, Section CTA1_06-4",BH1T48,1,-4050000S = -500000000,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",17.0
+1059,1038573,Y5XkapASsg,"Unit ES_03, Section ES_03-6",EG51A,1,-12.4y+13.2-13.2 = -16-13.2,,,,,,,,0.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",7.0
+1060,1038675,YoXjDl010q,"Unit CTA1_02, Section CTA1_02-4",BH1T29B,1,R2C2,,,,,,,,0.0,,,,Identifying units,4.0
+1061,1041774,a43DzeQWut,"Unit CTA1_06, Section CTA1_06-5",FBSMR2,1,YUnit,,,,,,,,1.0,,,,-1,
+1062,1041905,a43DzeQWut,"Unit ES_03, Section ES_03-6",EG51,1,-0.9y = 1.1,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",24.0
+1063,1042153,a43DzeQWut,"Unit CTA1_08, Section CTA1_08-2",FEB02,1,YUnit,,,,,,,,1.0,,,,-1,
+1064,1042485,a43DzeQWut,"Unit ES_04, Section ES_04-10",EG57,2,-72-(-2) = -4x-2-(-2),,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",41.0
+1065,1042738,a43DzeQWut,"Unit CTA1_10, Section CTA1_10-2",DIST09_SP,1,T*12000 = 60000,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",36.0
+1066,1048393,Un24RpQEWg,"Unit ES_04, Section ES_04-15",LIT55,1,(y-3) = m*(x-7),,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",35.0
+1067,1048689,Un24RpQEWg,"Unit CTA1_10, Section CTA1_10-5",DIST04_SP,1,(56+X)/4 = 64,,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",48.0
+1068,1048872,Un24RpQEWg,"Unit ES_07, Section ES_07-6",LIT77A,1,zR2,,,,,,,,0.0,,,,-1,
+1069,1049003,Un24RpQEWg,"Unit CTA1_12, Section CTA1_12-2",SYS04,1,R1C2,,,,,,,,0.0,,,,-1,
+1070,1049684,3Whv9UbPsR,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS01,5,(3(x^2)(y^3))/(2(x^5)(y^4)),,,,,,,,1.0,,,,-1,
+1071,1049691,3Whv9UbPsR,"Unit CTA1_20, Section CTA1_20-1",2PTS03,1,R1C2,,,,,,,,1.0,,,,-1,
+1072,1049743,3Whv9UbPsR,"Unit CTA1_24, Section CTA1_24-1",PERCENT07,1,R4C1,,,,,,,,1.0,,,,Entering a given,17.0
+1073,1050135,8mKdvKlPOw,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS01,1,FinalAnswer,,,,,,,,1.0,,,,perform-mult-sp,11.0
+1074,1050190,8mKdvKlPOw,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-2",EG-EQS07,3,FinalAnswer,,,,,,,,1.0,,,,simplify-fractions-sp,22.0
+1075,1050786,Mhc6xUn6X1,"Unit CTA1_08, Section CTA1_08-3",L5FB02,1,R3C1,,,,,,,,1.0,,,,Define Variable,16.0
+1076,1050885,Mhc6xUn6X1,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS01-FIXED,1,FinalAnswer,,,,,,,,1.0,,,,perform-mult-sp,9.0
+1077,1050961,Mhc6xUn6X1,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-2",EG-EQS07,8,FinalAnswer,,,,,,,,0.0,,,,simplify-fractions-sp,24.0
+1078,1051008,Mhc6xUn6X1,"Unit CTA1_20, Section CTA1_20-1",IPCSWIMMING,1,R1C1,,,,,,,,0.0,,,,-1,
+1079,1051198,O4YDV4XPTd,"Unit CTA1_08, Section CTA1_08-3",NOV13,1,R1C1,,,,,,,,1.0,,,,-1,
+1080,1051322,O4YDV4XPTd,"Unit ES_04, Section ES_04-1",EG40,3,8x-8 = -2,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",3.0
+1081,1051355,O4YDV4XPTd,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-2",EG-EPS07,2,(3y^4)(y^6),,,,,,,,1.0,,,,-1,
+1082,1051472,O4YDV4XPTd,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS01,1,(4(x^2)(y^4))/(2(x^6)(y^5)),,,,,,,,1.0,,,,-1,
+1083,1051716,oSV25Eb2y9,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-2",EG-EPS09,1,FinalAnswer,,,,,,,,1.0,,,,perform-mult-sp,11.0
+1084,1051796,oSV25Eb2y9,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS02,3,(5(x^6)(y^5))/y^2,,,,,,,,1.0,,,,-1,
+1085,1051828,oSV25Eb2y9,"Unit CTA1_24, Section CTA1_24-1",REAL06,1,R7C2,,,,,,,,1.0,,,,Entering a given,8.0
+1086,1052403,S7E3jvZbGG,"Unit CTA1_01, Section CTA1_01-4",L1FB12B,1,R1C1,,,,,,,,1.0,,,,-1,
+1087,1052601,S7E3jvZbGG,"Unit CTA1_02, Section CTA1_02-4",BH1T29B,1,XUnit,,,,,,,,1.0,,,,-1,
+1088,1052675,S7E3jvZbGG,"Unit ES_01, Section ES_01-2",EG3,2,(4+6)*4,,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]",6.0
+1089,1052912,S7E3jvZbGG,"Unit CTA1_08, Section CTA1_08-3",REAL10,1,Intercept Field 1,,,,,,,,1.0,,,,Entering the y-intercept,17.0
+1090,1053022,S7E3jvZbGG,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS03,1,yR2,,,,,,,,1.0,,,,perform-mult-row2-sp,14.0
+1091,1053097,S7E3jvZbGG,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS02,1,FinalAnswer,,,,,,,,1.0,,,,simplify-fractions-sp,21.0
+1092,1053108,S7E3jvZbGG,"Unit CTA1_20, Section CTA1_20-1",2PTS03,1,R5C2,,,,,,,,0.0,,,,Using small numbers,63.0
+1093,1053712,wu58ARZBA2,"Unit CTA1_01, Section CTA1_01-4",L1FB12C,1,R3C2,,,,,,,,0.0,,,,Using simple numbers,19.0
+1094,1053831,wu58ARZBA2,"Unit CTA1_02, Section CTA1_02-2",BH1T21A,1,R2C1,,,,,,,,1.0,,,,Identifying units,23.0
+1095,1053972,yA79w15tnU,"Unit ES_02, Section ES_02-7",EG41,5,y = -5*-4,,,,,,,,1.0,,,,-1,
+1096,1054029,yA79w15tnU,"Unit CTA1_13, Section CTA1_13-1",PROP04,1,R3C1,,,,,,,,1.0,,,,Define Variable,1.0
+1097,1054059,yA79w15tnU,"Unit CTA1_01, Section CTA1_01-2",RXMX1C,1,R3C1,,,,,,,,0.0,,,,Define Variable,4.0
+1098,1054284,YgQ57c2glM,"Unit CTA1_08, Section CTA1_08-3",REAL37,1,R2C1,,,,,,,,1.0,,,,Identifying units,17.0
+1099,1054368,YgQ57c2glM,"Unit ES_04, Section ES_04-4",EG54,3,X+2-2 = 2/9-2,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",6.0
+1100,1054416,YgQ57c2glM,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-2",EG-EPS09,2,(5y^4)(4y^2),,,,,,,,1.0,,,,-1,
+1101,1054749,YgQ57c2glM,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS03,4,row3-D-y,,,,,,,,1.0,,,,-1,
+1102,1055187,5ZR29q8c56,"Unit CTA1_06, Section CTA1_06-5",FBSMR3,1,R4C1,,,,,,,,0.0,,,,Entering a given,68.0
+1103,1055382,5ZR29q8c56,"Unit ES_03, Section ES_03-6",EG52A,1,-27.6y-46.7 = -46.9,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",20.0
+1104,1055734,5ZR29q8c56,"Unit CTA1_08, Section CTA1_08-3",FEB08,1,R1C1,,,,,,,,1.0,,,,-1,
+1105,1056018,5ZR29q8c56,"Unit ES_04, Section ES_04-12",EG58A,5,FinalAnswer,,,,,,,,1.0,,,,distribute-sp,21.0
+1106,1056264,5ZR29q8c56,"Unit CTA1_10, Section CTA1_10-6",DISTFB10_SP,1,R2C2,,,,,,,,1.0,,,,Identifying units,83.0
+1107,1056370,5ZR29q8c56,"Unit ES_05, Section ES_05-5",EG60,4,1 = -4y,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",118.0
+1108,1057803,6c2Im3PZdL,"Unit CTA1_04, Section CTA1_04-4",BH1T47,1,R4C1,,,,,,,,0.0,,,,Entering a given,14.0
+1109,1057965,6c2Im3PZdL,"Unit ES_02, Section ES_02-6",EG40,6,0 = 7x,,,,,,,,1.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",12.0
+1110,1058120,7o7172ufx2,"Unit ES_03, Section ES_03-7",LIT17,1,-y/-1 = q/-1,,,,,,,,1.0,,,,-1,
+1111,1058336,7o7172ufx2,"Unit CTA1_08, Section CTA1_08-3",JAN12,1,R3C2,,,,,,,,0.0,,,,Using small numbers,13.0
+1112,1058502,7o7172ufx2,"Unit ES_04, Section ES_04-10",EG57A,1,(-42x+9)/-7*-7 = 25*-7,,,,,,,,1.0,,,,[SkillRule: Calculate Eliminate Parens; [Typein Skill: Eliminate Parens]],2.0
+1113,1058722,7o7172ufx2,"Unit CTA1_10, Section CTA1_10-6",DISTFB11_SP,1,R3C1,,,,,,,,1.0,,,,Define Variable,32.0
+1114,1058810,7o7172ufx2,"Unit ES_05, Section ES_05-6",EG60,1,2x-8-2x = -3+8x-2x,,,,,,,,1.0,,,,"[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]",43.0
+1115,1069728,UEArk7W20r,"Unit CTA1_06, Section CTA1_06-3",BH1T43,1,R3C1,,,,,,,,1.0,,,,Define Variable,11.0
+1116,1070241,UEArk7W20r,"Unit ES_03, Section ES_03-8",LIT11A,1,2-n = t,,,,,,,,1.0,,,,-1,
+1117,1070466,UEArk7W20r,"Unit CTA1_08, Section CTA1_08-3",JAN12,1,XLabel,,,,,,,,1.0,,,,Labelling the axes,67.0
+1118,1070711,UEArk7W20r,"Unit ES_04, Section ES_04-10",EG57,4,row1-D-2y+2,,,,,,,,1.0,,,,-1,
+1119,1071133,UEArk7W20r,"Unit CTA1_10, Section CTA1_10-5",DIST05_SP,2,1/5*(B-200) = 160,,,,,,,,1.0,,,,-1,
+1120,1071411,UEArk7W20r,"Unit ES_05, Section ES_05-10",EG62,1,-0.790089y+0.1573426 = y,,,,,,,,0.0,,,,"[SkillRule: Consolidate vars, any; {Combine variables to right, sub; Combine variables to right, add; Combine variables to right, gen; Combine variables to right; Combine variables to left, add; Combine variables to left, sub; Combine variables to left, gen; ax+b=cx; ax+b=cx, move left; ax+b=cx+d, pos; ax+b=cx+d, neg; ax+b=cx+d, move right; ax+b=cx+d, move two; ax+b=cx+d, move two2; x+b=cx+d, pos; x+b=cx+d, neg; x+b=cx+d, move right; x+b=cx+d, move two; x+b=cx+d, move two2; ax+b=x+d, pos; ax+b=x+d, neg; ax+b=x+d, move right; ax+b=x+d, move two; ax+b=x+d, move two2; x+b=x+d, pos; x+b=x+d, neg; x+b=x+d, move right; x+b=x+d, move two; x+b=x+d, move two2}]",22.0
+1121,1071701,UEArk7W20r,"Unit CTA1_14, Section CTA1_14-3",2PTFB12,1,60 = (4)(10)+b,,,,,,,,0.0,,,,-1,
+1122,1073178,XGFd357i6u,"Unit ES_04, Section ES_04-15",LIT55,1,(y-3)/m+7 = x-7+7,,,,,,,,1.0,,,,"[SkillRule: Consolidate vars, no coeff; CLT]",2.0
+1123,1073355,XGFd357i6u,"Unit CTA1_10, Section CTA1_10-4",DIST02_SP,1,R6C1,,,,,,,,1.0,,,,Entering a given,43.0
+1124,1073597,XGFd357i6u,"Unit ES_05, Section ES_05-9",EG62A,2,-5086.39 = 1172.18y-4475.69,,,,,,,,1.0,,,,"[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]",81.0
+1125,1073863,XGFd357i6u,"Unit CTA1_14, Section CTA1_14-3",2PTS02,1,R3C2,,,,,,,,0.0,,,,Using simple numbers,66.0
+1126,1073986,29U6L12O3k,"Unit CTA1_24, Section CTA1_24-1",L3REAL21,1,R4C1,,,,,,,,1.0,,,,Entering a given,37.0
+1127,1074026,29U6L12O3k,"Unit CTA1_25, Section CTA1_25-1",DEC07,1,R6C1,,,,,,,,1.0,,,,Using small numbers,26.0
+1128,1074230,42FRuGgL06,"Unit CTA1_08, Section CTA1_08-2",L3_DEMO,1,Formula 1 Coeff 1,,,,,,,,0.0,,,,Setting the slope,8.0
+1129,1074305,42FRuGgL06,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-2",EG-EPS07,2,(4y^3)(y^4),,,,,,,,1.0,,,,-1,
+1130,1074355,42FRuGgL06,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS02,3,(6(x^6)(y^4))/y^5,,,,,,,,1.0,,,,-1,
+1131,1075034,C0qLCIhI0O,"Unit CTA1_08, Section CTA1_08-3",REAL37,2,R2C2,,,,,,,,1.0,,,,Identifying units,1.0
+1132,1075052,C0qLCIhI0O,"Unit ES_04, Section ES_04-1",EG40,2,10y = -1,,,,,,,,0.0,,,,"[SkillRule: Remove positive coefficient; {ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b}]",1.0
+1133,1075098,C0qLCIhI0O,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS03,1,constant factors1R1,,,,,,,,1.0,,,,-1,
+1134,1075308,C0qLCIhI0O,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-3",EG-EQS01,2,FinalAnswer,,,,,,,,1.0,,,,simplify-fractions-sp,29.0
+1135,1075314,C0qLCIhI0O,"Unit CTA1_24, Section CTA1_24-1",L5FB05,1,R4C2,,,,,,,,1.0,,,,Entering a given,1.0
+1136,1076841,e95f4UtF4I,"Unit EXPT-PRODUCT-SIMP-A_ES, Section EXPT-PRODUCT-SIMPLIFYING-A_ES-3",EG-EPS01-FIXED,1,FinalAnswer,,,,,,,,1.0,,,,perform-mult-sp,11.0
+1137,1076862,e95f4UtF4I,"Unit EXPT-QUOTIENT-SIMP-A_ES, Section EXPT-QUOTIENT-SIMPLIFYING-A_ES-2",EG-EQS08,1,2/1,,,,,,,,1.0,,,,-1,
+1138,1076891,e95f4UtF4I,"Unit CTA1_24, Section CTA1_24-1",PERCENT07,1,R6C2,,,,,,,,1.0,,,,Entering a given,6.0
+1139,1078861,JP20cryBg8,"Unit CTA1_24, Section CTA1_24-1",NOV05,1,R7C1,,,,,,,,0.0,,,,Entering a given,23.0
+1140,21616,8o0mJnIpFH,"Unit CTA1_06, Section CTA1_06-3",JAN05,2,R5C1,,,,,,,,0.0,,,,Using large numbers,15.0
+1141,21616,8o0mJnIpFH,"Unit CTA1_06, Section CTA1_06-3",JAN05,2,R5C1,,,,,,,,0.0,,,,"Find X, positive slope",18.0
+1142,23277,8o0mJnIpFH,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R3C2,,,,,,,,0.0,,,,"Write expression, positive slope",45.0
+1143,23277,8o0mJnIpFH,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R3C2,,,,,,,,0.0,,,,Using large numbers,56.0
+1144,23621,8o0mJnIpFH,"Unit CTA1_12, Section CTA1_12-2",SYS03,1,R3C3,,,,,,,,0.0,,,,Using small numbers,104.0
+1145,23621,8o0mJnIpFH,"Unit CTA1_12, Section CTA1_12-2",SYS03,1,R3C3,,,,,,,,0.0,,,,"Write expression, positive slope",55.0
+1146,39522,g209g5Vve6,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE2TRE,1,R4C2,,,,,,,,0.0,,,,Using small numbers,204.0
+1147,39522,g209g5Vve6,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE2TRE,1,R4C2,,,,,,,,0.0,,,,"Find Y, positive slope",24.0
+1148,39522,g209g5Vve6,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE2TRE,1,R4C2,,,,,,,,0.0,,,,Entering a computed linear value,45.0
+1163,97629,879eYkR2Wu,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE3TRE,1,R4C3,,,,,,,,1.0,,,,Using small numbers,43.0
+1164,97629,879eYkR2Wu,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE3TRE,1,R4C3,,,,,,,,1.0,,,,"Find Y, any form",9.0
+1165,97629,879eYkR2Wu,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE3TRE,1,R4C3,,,,,,,,1.0,,,,Entering a computed quadratic value,9.0
+1166,99331,879eYkR2Wu,"Unit CTA1_20, Section CTA1_20-2",1PTFB17,1,R4C1,,,,,,,,0.0,,,,"Convert unit, standard",14.0
+1167,99828,879eYkR2Wu,"Unit ES_06, Section ES_06-1",EG63A,5,-85265.5908y = 133395.09497311,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",48.0
+1168,99934,879eYkR2Wu,"Unit CTA1_24, Section CTA1_24-1",PERCENT07,1,R7C2,,,,,,,,0.0,,,,Using small numbers,156.0
+1169,99934,879eYkR2Wu,"Unit CTA1_24, Section CTA1_24-1",PERCENT07,1,R7C2,,,,,,,,0.0,,,,Using difficult numbers,93.0
+1179,159086,z9svx3mA4s,"Unit CTA1_01, Section CTA1_01-3",REAL20A,1,R4C2,,,,,,,,1.0,,,,Using large numbers,19.0
+1180,159086,z9svx3mA4s,"Unit CTA1_01, Section CTA1_01-3",REAL20A,1,R4C2,,,,,,,,1.0,,,,"Find Y, negative slope",5.0
+1181,159846,z9svx3mA4s,"Unit ES_02, Section ES_02-6",EG40,1,0 = -7y,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",16.0
+1182,162608,z9svx3mA4s,"Unit CTA1_14, Section CTA1_14-4",IPCTURDUCKEN,1,R6C1,,,,,,,,0.0,,,,"Find X, negative slope",44.0
+1183,162608,z9svx3mA4s,"Unit CTA1_14, Section CTA1_14-4",IPCTURDUCKEN,1,R6C1,,,,,,,,0.0,,,,Using difficult numbers,153.0
+1184,162787,z9svx3mA4s,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",P-2X-2YGE9,1,ShadeButton1,,,,,,,,1.0,,,,Including the line when shading,8.0
+1185,162787,z9svx3mA4s,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",P-2X-2YGE9,1,ShadeButton1,,,,,,,,1.0,,,,Shading GLF equation with negative slope,3.0
+1191,212860,oEt3YTvS4G,"Unit CTA1_01, Section CTA1_01-4",JAN13A,1,R4C2,,,,,,,,1.0,,,,Using large numbers,28.0
+1192,212860,oEt3YTvS4G,"Unit CTA1_01, Section CTA1_01-4",JAN13A,1,R4C2,,,,,,,,1.0,,,,"Find Y, positive slope",14.0
+1193,213493,oEt3YTvS4G,"Unit CTA1_04, Section CTA1_04-4",L5FB04C,2,R6C1,,,,,,,,1.0,,,,"Find X, negative slope",5.0
+1194,213493,oEt3YTvS4G,"Unit CTA1_04, Section CTA1_04-4",L5FB04C,2,R6C1,,,,,,,,1.0,,,,Using difficult numbers,23.0
+1195,213620,oEt3YTvS4G,"Unit ES_02, Section ES_02-6",EG40,2,-5 = -10+9y,,,,,,,,1.0,,,,"[SkillRule: ax+b=c, negative; ax+b=c, negative]",4.0
+1196,213773,oEt3YTvS4G,"Unit CTA1_13, Section CTA1_13-1",PROP12,1,R4C1,,,,,,,,1.0,,,,"Find X, Simple",16.0
+1197,213773,oEt3YTvS4G,"Unit CTA1_13, Section CTA1_13-1",PROP12,1,R4C1,,,,,,,,1.0,,,,Using difficult numbers,37.0
+1198,215643,t0fI2c7EMH,"Unit CTA1_04, Section CTA1_04-4",L5FB04B,1,R3C2,,,,,,,,1.0,,,,"Write expression, negative slope",5.0
+1199,215643,t0fI2c7EMH,"Unit CTA1_04, Section CTA1_04-4",L5FB04B,1,R3C2,,,,,,,,1.0,,,,Using difficult numbers,22.0
+1203,231825,c3Ee3W8hyq,"Unit CTA1_01, Section CTA1_01-3",REAL20A,1,R4C2,,,,,,,,0.0,,,,Using large numbers,18.0
+1204,231825,c3Ee3W8hyq,"Unit CTA1_01, Section CTA1_01-3",REAL20A,1,R4C2,,,,,,,,0.0,,,,"Find Y, negative slope",5.0
+1205,232680,c3Ee3W8hyq,"Unit CTA1_04, Section CTA1_04-2",BH1T32,3,R3C2,,,,,,,,1.0,,,,Using large numbers,81.0
+1206,232680,c3Ee3W8hyq,"Unit CTA1_04, Section CTA1_04-2",BH1T32,3,R3C2,,,,,,,,1.0,,,,Using difficult numbers,35.0
+1207,233089,c3Ee3W8hyq,"Unit ES_02, Section ES_02-10",EG44,4,-9y = 9,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",34.0
+1208,233204,c3Ee3W8hyq,"Unit CTA1_13, Section CTA1_13-1",PROP02,1,R5C1,,,,,,,,0.0,,,,"Find X, Simple",30.0
+1209,233204,c3Ee3W8hyq,"Unit CTA1_13, Section CTA1_13-1",PROP02,1,R5C1,,,,,,,,0.0,,,,Using difficult numbers,76.0
+1210,235088,c3Ee3W8hyq,"Unit ES_04, Section ES_04-15",LIT55,1,(y-3) = m*(x-7),,,,,,,,0.0,,,,"[SkillRule: Eliminate Parens; {[var expr]/[const expr] = [const expr], multiply; [var expr]*[const expr] = [const expr], divide}]",13.0
+1211,242653,h0UbH181l8,"Unit CTA1_04, Section CTA1_04-2",PERCENT03B,1,R3C2,,,,,,,,1.0,,,,"Write expression, positive slope",43.0
+1212,242653,h0UbH181l8,"Unit CTA1_04, Section CTA1_04-2",PERCENT03B,1,R3C2,,,,,,,,1.0,,,,Using difficult numbers,45.0
+1213,243002,h0UbH181l8,"Unit ES_02, Section ES_02-10",EG44,1,FinalAnswer,,,,,,,,0.0,,,,perform-mult-r-sp,3.0
+1214,243147,h0UbH181l8,"Unit CTA1_13, Section CTA1_13-1",PROP12,1,G/250 = 200,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",87.0
+1215,248109,h0UbH181l8,"Unit CTA1_15, Section CTA1_15-3",SYS09,2,R7C1,,,,,,,,1.0,,,,"Convert unit, standard",39.0
+1216,248817,h0UbH181l8,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD2TRE,1,R4C2,,,,,,,,1.0,,,,Using small numbers,409.0
+1217,248817,h0UbH181l8,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD2TRE,1,R4C2,,,,,,,,1.0,,,,"Find Y, any form",25.0
+1218,248817,h0UbH181l8,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD2TRE,1,R4C2,,,,,,,,1.0,,,,Entering a computed quadratic value,15.0
+1219,283843,tlJn3I40bf,"Unit CTA1_01, Section CTA1_01-4",L1FB12B,1,R3C2,,,,,,,,0.0,,,,Using small numbers,32.0
+1220,283843,tlJn3I40bf,"Unit CTA1_01, Section CTA1_01-4",L1FB12B,1,R3C2,,,,,,,,0.0,,,,"Write expression, positive slope",19.0
+1221,284243,tlJn3I40bf,"Unit ES_01, Section ES_01-6",EG21,9,x = -2-2,,,,,,,,1.0,,,,"[SkillRule: Consolidate vars, no coeff; CLT]",48.0
+1222,284651,tlJn3I40bf,"Unit ES_02, Section ES_02-6",EG40,4,-7x-1 = 8,,,,,,,,1.0,,,,"[SkillRule: ax+b=c, negative; ax+b=c, negative]",10.0
+1223,286360,tlJn3I40bf,"Unit ES_04, Section ES_04-14",LIT20A,3,s/d*d = (f-c)*d,,,,,,,,1.0,,,,[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]],71.0
+1224,306053,y5009rpZ12,"Unit CTA1_01, Section CTA1_01-3",REAL20C,1,R6C2,,,,,,,,1.0,,,,Using large numbers,32.0
+1225,306053,y5009rpZ12,"Unit CTA1_01, Section CTA1_01-3",REAL20C,1,R6C2,,,,,,,,1.0,,,,"Find Y, negative slope",9.0
+1226,308432,y5009rpZ12,"Unit CTA1_08, Section CTA1_08-2",REAL31,1,R3C2,,,,,,,,0.0,,,,Using small numbers,195.0
+1227,308432,y5009rpZ12,"Unit CTA1_08, Section CTA1_08-2",REAL31,1,R3C2,,,,,,,,0.0,,,,"Write expression, positive slope",72.0
+1228,310069,y5009rpZ12,"Unit ES_05, Section ES_05-9",EG62A,2,-64.07y-833.41 = -2083.98,,,,,,,,1.0,,,,"[SkillRule: ax+b=c, negative; ax+b=c, negative]",61.0
+1229,311481,y5009rpZ12,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE7TRE,1,R4C3,,,,,,,,1.0,,,,Using small numbers,356.0
+1230,311481,y5009rpZ12,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE7TRE,1,R4C3,,,,,,,,1.0,,,,"Find Y, positive slope",54.0
+1231,311481,y5009rpZ12,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE7TRE,1,R4C3,,,,,,,,1.0,,,,Entering a computed linear value,17.0
+1232,315007,yB480DNZ70,"Unit CTA1_13, Section CTA1_13-1",PROP13,1,R5C1,,,,,,,,1.0,,,,"Convert unit, standard",22.0
+1233,318203,yB480DNZ70,"Unit ES_07, Section ES_07-4",LIT70A,4,6u-r*u-r*w-6u = x*s-6u,,,,,,,,1.0,,,,[SkillRule: Consolidate vars with coeff; CLT],217.0
+1234,318942,yB480DNZ70,"Unit CTA1_12, Section CTA1_12-6",SYS01,3,3C = 630,,,,,,,,0.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",430.0
+1237,363173,88Uhb8760x,"Unit ES_01, Section ES_01-11",EG27,2,8 = -y,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",12.0
+1238,363173,88Uhb8760x,"Unit ES_01, Section ES_01-11",EG27,2,8 = -y,,,,,,,,1.0,,,,"[SkillRule: Make variable positive; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",6.0
+1239,363710,88Uhb8760x,"Unit ES_02, Section ES_02-10",EG44,1,-3y = -8,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",29.0
+1240,364330,88Uhb8760x,"Unit CTA1_06, Section CTA1_06-4",BH1T48,2,-4050000L = -500000000,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",36.0
+1241,365839,88Uhb8760x,"Unit CTA1_10, Section CTA1_10-3",DISTFB06_SP,3,D-100000 = 3333333.33333333,,,,,,,,1.0,,,,"[SkillRule: Isolate negative; x+a=b, negative]",19.0
+1242,368024,88Uhb8760x,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",YGT5X+12,1,Slope1,,,,,,,,1.0,,,,"Positive Constants, SIF",9.0
+1243,368335,88Uhb8760x,"Unit CTA1_15, Section CTA1_15-3",SYSFB06,1,R5C3,,,,,,,,0.0,,,,Using simple numbers,415.0
+1244,368335,88Uhb8760x,"Unit CTA1_15, Section CTA1_15-3",SYSFB06,1,R5C3,,,,,,,,0.0,,,,Using large numbers,242.0
+1245,368557,88Uhb8760x,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE3TRE,1,R5C3,,,,,,,,1.0,,,,Using small numbers,413.0
+1246,368557,88Uhb8760x,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE3TRE,1,R5C3,,,,,,,,1.0,,,,"Find Y, any form",19.0
+1247,368557,88Uhb8760x,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE3TRE,1,R5C3,,,,,,,,1.0,,,,Entering a computed quadratic value,10.0
+1281,447781,mI0bEZaepz,"Unit ES_01, Section ES_01-8",EG23,4,-9 = 4y,,,,,,,,0.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",14.0
+1282,457759,0GlR30c2Mt,"Unit CTA1_01, Section CTA1_01-3",REAL20B,1,R4C2,,,,,,,,1.0,,,,Using large numbers,23.0
+1283,457759,0GlR30c2Mt,"Unit CTA1_01, Section CTA1_01-3",REAL20B,1,R4C2,,,,,,,,1.0,,,,"Find Y, negative slope",6.0
+1284,458306,0GlR30c2Mt,"Unit ES_01, Section ES_01-6",EG21,1,4 = x+10,,,,,,,,0.0,,,,"[SkillRule: Isolate positive; x+a=b, positive]",1.0
+1285,459117,0GlR30c2Mt,"Unit CTA1_13, Section CTA1_13-1",PROP09,1,R7C1,,,,,,,,1.0,,,,"Find X, Simple",29.0
+1286,459117,0GlR30c2Mt,"Unit CTA1_13, Section CTA1_13-1",PROP09,1,R7C1,,,,,,,,1.0,,,,Using difficult numbers,66.0
+1287,460799,0GlR30c2Mt,"Unit ES_04, Section ES_04-12",EG58,2,-23y = -30,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",91.0
+1288,461828,0GlR30c2Mt,"Unit CTA1_12, Section CTA1_12-2",SYS04,1,S+45 = 602,,,,,,,,1.0,,,,"[SkillRule: Isolate positive; x+a=b, positive]",26.0
+1303,505287,6jCygPdswz,"Unit CTA1_02, Section CTA1_02-3",L3NOV12B,1,R7C1,,,,,,,,1.0,,,,"Convert unit, standard",12.0
+1304,505835,6jCygPdswz,"Unit CTA1_04, Section CTA1_04-3",PERCENT14C,2,R7C1,,,,,,,,0.0,,,,"Find X, positive slope",15.0
+1305,505835,6jCygPdswz,"Unit CTA1_04, Section CTA1_04-3",PERCENT14C,2,R7C1,,,,,,,,0.0,,,,Using difficult numbers,36.0
+1306,506158,6jCygPdswz,"Unit ES_02, Section ES_02-6",EG40,5,FinalAnswer,,,,,,,,1.0,,,,combine-like-terms-sp,27.0
+1307,506918,6jCygPdswz,"Unit CTA1_06, Section CTA1_06-3",FOR05,1,R3C2,,,,,,,,0.0,,,,"Write expression, positive slope",70.0
+1308,506918,6jCygPdswz,"Unit CTA1_06, Section CTA1_06-3",FOR05,1,R3C2,,,,,,,,0.0,,,,Using difficult numbers,108.0
+1309,507510,6jCygPdswz,"Unit ES_03, Section ES_03-7",LIT12,1,k-3 = h,,,,,,,,1.0,,,,"[SkillRule: Isolate negative; x+a=b, negative]",6.0
+1310,510570,6jCygPdswz,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",P-2X-2YGE9,1,ShadeButton1,,,,,,,,1.0,,,,Including the line when shading,13.0
+1311,510570,6jCygPdswz,"Unit LINEAR-INEQUALITY-GRAPHING, Section LINEAR-INEQUALITY-GRAPHING-2",P-2X-2YGE9,1,ShadeButton1,,,,,,,,1.0,,,,Shading GLF equation with negative slope,4.0
+1312,511692,6jCygPdswz,"Unit QUAD-VERTICAL-MOTION, Section QUAD-VERTICAL-MOTION-1",NEWQUAD6TRE,1,R8C1,,,,,,,,1.0,,,,Entering a given linear value,36.0
+1313,512413,6jCygPdswz,"Unit CTA1_20, Section CTA1_20-2",1PTFB18,1,R6C1,,,,,,,,0.0,,,,"Convert unit, standard",50.0
+1322,563989,02i5jCrfQK,"Unit CTA1_02, Section CTA1_02-4",BH1T29A,3,R6C1,,,,,,,,0.0,,,,Using large numbers,60.0
+1323,563989,02i5jCrfQK,"Unit CTA1_02, Section CTA1_02-4",BH1T29A,3,R6C1,,,,,,,,0.0,,,,"Find X, negative slope",3.0
+1324,565014,02i5jCrfQK,"Unit CTA1_13, Section CTA1_13-1",PROP01,1,2F = 3000,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",113.0
+1325,565722,02i5jCrfQK,"Unit CTA1_06, Section CTA1_06-5",FBSMR1,2,15H = 3.75,,,,,,,,0.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",168.0
+1326,570162,02i5jCrfQK,"Unit QUAD-ADD-AREA-ALG1, Section QUAD-ADD-AREA-ALG1-1",NEWSQUARE3TRE,1,R5C1,,,,,,,,1.0,,,,Entering a given linear value,22.0
+1336,595545,rPj8YeG1I5,"Unit CTA1_06, Section CTA1_06-2",FEB11,1,R3C2,,,,,,,,0.0,,,,Using small numbers,138.0
+1337,595545,rPj8YeG1I5,"Unit CTA1_06, Section CTA1_06-2",FEB11,1,R3C2,,,,,,,,0.0,,,,"Write expression, positive slope",50.0
+1346,695091,1bJbgQ32E3,"Unit CTA1_01, Section CTA1_01-3",BH1T33B,3,R4C2,,,,,,,,0.0,,,,Using large numbers,29.0
+1347,695091,1bJbgQ32E3,"Unit CTA1_01, Section CTA1_01-3",BH1T33B,3,R4C2,,,,,,,,0.0,,,,"Find Y, negative slope",4.0
+1348,695879,1bJbgQ32E3,"Unit ES_01, Section ES_01-9",EG25,1,x/3 = 5,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",18.0
+1349,696092,1bJbgQ32E3,"Unit CTA1_04, Section CTA1_04-2",BH1T32B,2,R5C1,,,,,,,,0.0,,,,"Convert unit, standard",15.0
+1350,699157,1bJbgQ32E3,"Unit ES_07, Section ES_07-4",LIT70A,2,FinalAnswer,,,,,,,,1.0,,,,factor-sp,23.0
+1351,700103,1bJbgQ32E3,"Unit ES_05, Section ES_05-7",EG61,11,-11.48 = -0.23y,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",465.0
+1352,700596,1bJbgQ32E3,"Unit CTA1_14, Section CTA1_14-4",2PTFB10,1,R8C1,,,,,,,,0.0,,,,Using small numbers,341.0
+1353,700596,1bJbgQ32E3,"Unit CTA1_14, Section CTA1_14-4",2PTFB10,1,R8C1,,,,,,,,0.0,,,,"Find X, positive slope",128.0
+1354,703553,242fhbKRf9,"Unit CTA1_01, Section CTA1_01-3",L3NOV07A,1,R5C2,,,,,,,,1.0,,,,Using large numbers,40.0
+1355,703553,242fhbKRf9,"Unit CTA1_01, Section CTA1_01-3",L3NOV07A,1,R5C2,,,,,,,,1.0,,,,"Find Y, negative slope",10.0
+1356,703820,242fhbKRf9,"Unit CTA1_02, Section CTA1_02-3",L3NOV12C,2,R4C2,,,,,,,,0.0,,,,Using large numbers,61.0
+1357,703820,242fhbKRf9,"Unit CTA1_02, Section CTA1_02-3",L3NOV12C,2,R4C2,,,,,,,,0.0,,,,"Find Y, positive slope",36.0
+1358,704623,242fhbKRf9,"Unit CTA1_04, Section CTA1_04-3",L2FB15C,1,R7C1,,,,,,,,1.0,,,,"Find X, positive slope",24.0
+1359,704623,242fhbKRf9,"Unit CTA1_04, Section CTA1_04-3",L2FB15C,1,R7C1,,,,,,,,1.0,,,,Using difficult numbers,52.0
+1360,705522,242fhbKRf9,"Unit CTA1_13, Section CTA1_13-1",PROP13,1,R6C1,,,,,,,,0.0,,,,"Convert unit, standard",19.0
+1361,706607,242fhbKRf9,"Unit ES_03, Section ES_03-6",EG52,2,-0.1x = 6.4,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",107.0
+1362,709122,242fhbKRf9,"Unit ES_05, Section ES_05-9",EG62A,1,-2571.09-510.12x = -7019.65,,,,,,,,1.0,,,,"[SkillRule: ax+b=c, negative; ax+b=c, negative]",90.0
+1367,728018,80nlN05JQ6,"Unit CTA1_02, Section CTA1_02-4",L2FB14B,1,R7C1,,,,,,,,1.0,,,,Using large numbers,61.0
+1368,728018,80nlN05JQ6,"Unit CTA1_02, Section CTA1_02-4",L2FB14B,1,R7C1,,,,,,,,1.0,,,,"Find X, negative slope",3.0
+1369,728667,80nlN05JQ6,"Unit CTA1_04, Section CTA1_04-3",L2FB15C,1,R3C2,,,,,,,,0.0,,,,"Write expression, positive slope",40.0
+1370,728667,80nlN05JQ6,"Unit CTA1_04, Section CTA1_04-3",L2FB15C,1,R3C2,,,,,,,,0.0,,,,Using difficult numbers,43.0
+1371,729637,80nlN05JQ6,"Unit CTA1_06, Section CTA1_06-3",FOR05,2,R3C2,,,,,,,,1.0,,,,"Write expression, positive slope",65.0
+1372,729637,80nlN05JQ6,"Unit CTA1_06, Section CTA1_06-3",FOR05,2,R3C2,,,,,,,,1.0,,,,Using difficult numbers,108.0
+1373,732228,80nlN05JQ6,"Unit CTA1_12, Section CTA1_12-4",SYSFB23,1,R3C2,,,,,,,,0.0,,,,Using small numbers,298.0
+1374,732228,80nlN05JQ6,"Unit CTA1_12, Section CTA1_12-4",SYSFB23,1,R3C2,,,,,,,,0.0,,,,"Write expression, positive slope",125.0
+1375,732792,80nlN05JQ6,"Unit ES_05, Section ES_05-10",EG62A,1,-1130.63x = 8477.4,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",168.0
+1376,733855,80nlN05JQ6,"Unit CTA1_15, Section CTA1_15-3",SYS09,1,-22000M = -450000,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",212.0
+1389,799198,4ajdr1a4Kc,"Unit CTA1_01, Section CTA1_01-3",L3NOV07A,2,R4C2,,,,,,,,0.0,,,,Using large numbers,40.0
+1390,799198,4ajdr1a4Kc,"Unit CTA1_01, Section CTA1_01-3",L3NOV07A,2,R4C2,,,,,,,,0.0,,,,"Find Y, negative slope",10.0
+1391,799415,4ajdr1a4Kc,"Unit CTA1_02, Section CTA1_02-3",L3NOV10B,2,R3C2,,,,,,,,0.0,,,,"Write expression, positive slope",27.0
+1392,799415,4ajdr1a4Kc,"Unit CTA1_02, Section CTA1_02-3",L3NOV10B,2,R3C2,,,,,,,,0.0,,,,Using large numbers,63.0
+1393,802312,5g8708DBB0,"Unit ES_05, Section ES_05-5",EG60,6,-5x-6 = 4,,,,,,,,1.0,,,,"[SkillRule: ax+b=c, negative; ax+b=c, negative]",13.0
+1395,805934,w33QZ9Q64W,"Unit ES_05, Section ES_05-10",EG62,1,27.24x = -87.96,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",32.0
+1396,806439,x64anap2Kz,"Unit ES_05, Section ES_05-10",EG62,6,-122.66y = 33.58,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",21.0
+1397,806574,x64anap2Kz,"Unit CTA1_14, Section CTA1_14-1",LDEMO_PTY,2,R7C1,,,,,,,,1.0,,,,Using large numbers,2.0
+1398,806574,x64anap2Kz,"Unit CTA1_14, Section CTA1_14-1",LDEMO_PTY,2,R7C1,,,,,,,,1.0,,,,"Find X, negative slope",1.0
+1399,811551,VHCF3iE0a4,"Unit CTA1_04, Section CTA1_04-3",L2FB15,1,32.87 = 0.23T,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",35.0
+1400,812057,VHCF3iE0a4,"Unit CTA1_14, Section CTA1_14-4",1PTFB12,1,-250 = -25D,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",43.0
+1401,812661,VHCF3iE0a4,"Unit CTA1_15, Section CTA1_15-3",SYS09,1,R4C2,,,,,,,,0.0,,,,Using large numbers,77.0
+1402,812661,VHCF3iE0a4,"Unit CTA1_15, Section CTA1_15-3",SYS09,1,R4C2,,,,,,,,0.0,,,,"Find Y, negative slope",12.0
+1409,821484,jXc985G8qy,"Unit ES_07, Section ES_07-4",LIT64A,1,y*j+z*u-j*c = j*c+g*x-j*c,,,,,,,,1.0,,,,[SkillRule: Consolidate vars with coeff; CLT],79.0
+1410,823236,rnOGP59582,"Unit ES_07, Section ES_07-6",LIT72A,1,n+q-q = c*s-q,,,,,,,,1.0,,,,"[SkillRule: Consolidate vars, no coeff; CLT]",1.0
+1422,853452,45oTz6NVkr,"Unit CTA1_13, Section CTA1_13-1",PROP13,2,2X = 630,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",9.0
+1425,857877,z2zuhnARi6,"Unit CTA1_01, Section CTA1_01-4",JAN04B,1,R5C2,,,,,,,,1.0,,,,Using large numbers,4.0
+1426,857877,z2zuhnARi6,"Unit CTA1_01, Section CTA1_01-4",JAN04B,1,R5C2,,,,,,,,1.0,,,,"Find Y, positive slope",7.0
+1429,869857,ck0GIf31rJ,"Unit CTA1_06, Section CTA1_06-5",FBSMR1,1,R5C1,,,,,,,,0.0,,,,Using small numbers,19.0
+1430,869857,ck0GIf31rJ,"Unit CTA1_06, Section CTA1_06-5",FBSMR1,1,R5C1,,,,,,,,0.0,,,,"Find X, Simple",1.0
+1431,870274,ck0GIf31rJ,"Unit ES_03, Section ES_03-4",EG49,1,FinalAnswer,,,,,,,,1.0,,,,combine-like-terms-sp,23.0
+1432,874909,m9a501e1MM,"Unit CTA1_14, Section CTA1_14-4",LDEMO_PTPT,1,R5C1,,,,,,,,1.0,,,,Using small numbers,70.0
+1433,874909,m9a501e1MM,"Unit CTA1_14, Section CTA1_14-4",LDEMO_PTPT,1,R5C1,,,,,,,,1.0,,,,"Find X, positive slope",27.0
+1436,884543,3k85qY4Y2B,"Unit CTA1_12, Section CTA1_12-5",SYSFB24,1,13200 = 700M,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",78.0
+1437,884720,3k85qY4Y2B,"Unit ES_05, Section ES_05-5",EG60,4,-16x = 9,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",23.0
+1438,886006,448d2Kv3hw,"Unit CTA1_12, Section CTA1_12-2",SYS03,2,-8M-10 = -58,,,,,,,,1.0,,,,"[SkillRule: ax+b=c, negative; ax+b=c, negative]",23.0
+1443,901823,Exz0X2naK1,"Unit ES_01, Section ES_01-1",EG4,1,9(4+2),,,,,,,,1.0,,,,"[SkillRule: Select Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; Distribute subex}]",3.0
+1444,914242,q1Yar3mIhE,"Unit CTA1_13, Section CTA1_13-1",PROP13,1,R5C1,,,,,,,,1.0,,,,"Convert unit, standard",2.0
+1445,915919,vkQ059OE0u,"Unit CTA1_04, Section CTA1_04-2",PERCENT03A,1,R7C1,,,,,,,,1.0,,,,"Find X, Simple",14.0
+1446,915919,vkQ059OE0u,"Unit CTA1_04, Section CTA1_04-2",PERCENT03A,1,R7C1,,,,,,,,1.0,,,,Using difficult numbers,26.0
+1447,926588,GlZwe88Gzo,"Unit ES_01, Section ES_01-5",EG13,1,10+6.5 = y,,,,,,,,1.0,,,,"[SkillRule: Consolidate vars, no coeff; CLT]",10.0
+1448,927731,XT7r2I6hmm,"Unit CTA1_20, Section CTA1_20-1",1PTFB16,1,R6C1,,,,,,,,0.0,,,,"Convert unit, standard",1.0
+1449,940090,xH487WMLoS,"Unit CTA1_10, Section CTA1_10-4",DIST02_SP,1,R7C1,,,,,,,,1.0,,,,Using large numbers,17.0
+1450,940090,xH487WMLoS,"Unit CTA1_10, Section CTA1_10-4",DIST02_SP,1,R7C1,,,,,,,,1.0,,,,"Find X, positive slope",23.0
+1451,940578,xH487WMLoS,"Unit CTA1_12, Section CTA1_12-4",SYSFB04,1,-185+35H = 0,,,,,,,,1.0,,,,"[SkillRule: ax+b=c, negative; ax+b=c, negative]",11.0
+1452,954709,txnqGG764s,"Unit CTA1_02, Section CTA1_02-3",L3NOV10C,1,R6C2,,,,,,,,1.0,,,,Using large numbers,50.0
+1453,954709,txnqGG764s,"Unit CTA1_02, Section CTA1_02-3",L3NOV10C,1,R6C2,,,,,,,,1.0,,,,"Find Y, positive slope",36.0
+1454,957494,93YVE85s1x,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R7C1,,,,,,,,1.0,,,,Using large numbers,24.0
+1455,957494,93YVE85s1x,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R7C1,,,,,,,,1.0,,,,"Find X, positive slope",27.0
+1456,958361,9iQ6dU8Ooj,"Unit CTA1_08, Section CTA1_08-3",FEB08,1,R3C2,,,,,,,,0.0,,,,"Write expression, positive slope",14.0
+1457,958361,9iQ6dU8Ooj,"Unit CTA1_08, Section CTA1_08-3",FEB08,1,R3C2,,,,,,,,0.0,,,,Using large numbers,2.0
+1458,964109,JU5Ms0pxvu,"Unit CTA1_06, Section CTA1_06-5",FBSMR3,1,R5C1,,,,,,,,1.0,,,,"Find X, negative slope",11.0
+1459,964109,JU5Ms0pxvu,"Unit CTA1_06, Section CTA1_06-5",FBSMR3,1,R5C1,,,,,,,,1.0,,,,Using difficult numbers,26.0
+1460,968465,Uv4cSe2ijd,"Unit CTA1_13, Section CTA1_13-1",PROP12,2,R6C2,,,,,,,,0.0,,,,Using small numbers,14.0
+1461,968465,Uv4cSe2ijd,"Unit CTA1_13, Section CTA1_13-1",PROP12,2,R6C2,,,,,,,,0.0,,,,Using difficult numbers,14.0
+1462,968785,Uv4cSe2ijd,"Unit CTA1_06, Section CTA1_06-3",FEB04,1,R4C1,,,,,,,,1.0,,,,"Find X, positive slope",15.0
+1463,968785,Uv4cSe2ijd,"Unit CTA1_06, Section CTA1_06-3",FEB04,1,R4C1,,,,,,,,1.0,,,,Using difficult numbers,45.0
+1464,979310,i0FfLG15di,"Unit CTA1_06, Section CTA1_06-4",BH1T52,1,R4C1,,,,,,,,1.0,,,,Using small numbers,14.0
+1465,979310,i0FfLG15di,"Unit CTA1_06, Section CTA1_06-4",BH1T52,1,R4C1,,,,,,,,1.0,,,,"Find X, negative slope",3.0
+1466,986765,694Y3fju01,"Unit ES_05, Section ES_05-8",EG61,1,-9.64+(-1.06y) = 7.4,,,,,,,,1.0,,,,"[SkillRule: ax+b=c, negative; ax+b=c, negative]",25.0
+1467,998854,QUcO70Q91P,"Unit ES_03, Section ES_03-7",LIT1,1,s+r = t,,,,,,,,1.0,,,,"[SkillRule: Isolate positive; x+a=b, positive]",3.0
+1468,999780,QUcO70Q91P,"Unit CTA1_10, Section CTA1_10-3",DISTFB04_SP,1,160 = 1.25X,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",110.0
+1469,1004444,zUlk9c7UEv,"Unit CTA1_10, Section CTA1_10-2",DIST09_SP,1,R5C1,,,,,,,,1.0,,,,Using large numbers,31.0
+1470,1004444,zUlk9c7UEv,"Unit CTA1_10, Section CTA1_10-2",DIST09_SP,1,R5C1,,,,,,,,1.0,,,,"Find X, positive slope",35.0
+1471,1005662,1k3GIfwBw6,"Unit ES_05, Section ES_05-9",EG62A,3,1016.09y = -8267.12,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",163.0
+1472,1005775,1k3GIfwBw6,"Unit CTA1_14, Section CTA1_14-2",1PTFB11,1,"-5M = -1,260",,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",30.0
+1473,1009799,i5Y9A05Ph8,"Unit CTA1_10, Section CTA1_10-3",DISTFB06_SP,1,0.3D = 232500,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",122.0
+1474,1016258,rE6U5574qn,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R3C2,,,,,,,,1.0,,,,"Write expression, positive slope",31.0
+1475,1016258,rE6U5574qn,"Unit CTA1_10, Section CTA1_10-5",DISTFB08_SP,1,R3C2,,,,,,,,1.0,,,,Using large numbers,22.0
+1476,1017521,Rl6LafSUXj,"Unit ES_03, Section ES_03-5",EG51,1,0.1y = 8.4,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",63.0
+1477,1038209,Y5XkapASsg,"Unit CTA1_06, Section CTA1_06-4",BH1T48,1,-4050000S = -500000000,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",2.0
+1478,1041905,a43DzeQWut,"Unit ES_03, Section ES_03-6",EG51,1,-0.9y = 1.1,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",14.0
+1479,1042738,a43DzeQWut,"Unit CTA1_10, Section CTA1_10-2",DIST09_SP,1,T*12000 = 60000,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",121.0
+1480,1048393,Un24RpQEWg,"Unit ES_04, Section ES_04-15",LIT55,1,(y-3) = m*(x-7),,,,,,,,1.0,,,,"[SkillRule: Eliminate Parens; {[var expr]/[const expr] = [const expr], multiply; [var expr]*[const expr] = [const expr], divide}]",3.0
+1481,1048689,Un24RpQEWg,"Unit CTA1_10, Section CTA1_10-5",DIST04_SP,1,(56+X)/4 = 64,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",46.0
+1482,1052675,S7E3jvZbGG,"Unit ES_01, Section ES_01-2",EG3,2,(4+6)*4,,,,,,,,1.0,,,,"[SkillRule: Select Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; Distribute subex}]",6.0
+1483,1053108,S7E3jvZbGG,"Unit CTA1_20, Section CTA1_20-1",2PTS03,1,R5C2,,,,,,,,0.0,,,,"Find Y, positive slope",27.0
+1484,1053108,S7E3jvZbGG,"Unit CTA1_20, Section CTA1_20-1",2PTS03,1,R5C2,,,,,,,,0.0,,,,Using difficult numbers,13.0
+1485,1053712,wu58ARZBA2,"Unit CTA1_01, Section CTA1_01-4",L1FB12C,1,R3C2,,,,,,,,0.0,,,,Using small numbers,9.0
+1486,1053712,wu58ARZBA2,"Unit CTA1_01, Section CTA1_01-4",L1FB12C,1,R3C2,,,,,,,,0.0,,,,"Write expression, positive slope",3.0
+1487,1055382,5ZR29q8c56,"Unit ES_03, Section ES_03-6",EG52A,1,-27.6y-46.7 = -46.9,,,,,,,,1.0,,,,"[SkillRule: ax+b=c, negative; ax+b=c, negative]",11.0
+1488,1056018,5ZR29q8c56,"Unit ES_04, Section ES_04-12",EG58A,5,FinalAnswer,,,,,,,,1.0,,,,combine-like-terms-sp,22.0
+1489,1056370,5ZR29q8c56,"Unit ES_05, Section ES_05-5",EG60,4,1 = -4y,,,,,,,,1.0,,,,"[SkillRule: Remove negative coefficient; {ax/b=c, reciprocal; ax/b=c; ax=b; x/a=b}]",53.0
+1490,1057965,6c2Im3PZdL,"Unit ES_02, Section ES_02-6",EG40,6,0 = 7x,,,,,,,,1.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",17.0
+1491,1058336,7o7172ufx2,"Unit CTA1_08, Section CTA1_08-3",JAN12,1,R3C2,,,,,,,,0.0,,,,"Write expression, negative slope",3.0
+1492,1058336,7o7172ufx2,"Unit CTA1_08, Section CTA1_08-3",JAN12,1,R3C2,,,,,,,,0.0,,,,Using difficult numbers,8.0
+1493,1073597,XGFd357i6u,"Unit ES_05, Section ES_05-9",EG62A,2,-5086.39 = 1172.18y-4475.69,,,,,,,,1.0,,,,"[SkillRule: ax+b=c, negative; ax+b=c, negative]",24.0
+1494,1073863,XGFd357i6u,"Unit CTA1_14, Section CTA1_14-3",2PTS02,1,R3C2,,,,,,,,0.0,,,,Using large numbers,44.0
+1495,1073863,XGFd357i6u,"Unit CTA1_14, Section CTA1_14-3",2PTS02,1,R3C2,,,,,,,,0.0,,,,"Write expression, two points",4.0
+1496,1074026,29U6L12O3k,"Unit CTA1_25, Section CTA1_25-1",DEC07,1,R6C1,,,,,,,,1.0,,,,"Find X, positive slope",13.0
+1497,1074026,29U6L12O3k,"Unit CTA1_25, Section CTA1_25-1",DEC07,1,R6C1,,,,,,,,1.0,,,,Using difficult numbers,23.0
+1498,1075052,C0qLCIhI0O,"Unit ES_04, Section ES_04-1",EG40,2,10y = -1,,,,,,,,0.0,,,,"[SkillRule: Remove coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]",2.0
+1499,1078861,JP20cryBg8,"Unit CTA1_24, Section CTA1_24-1",NOV05,1,R7C1,,,,,,,,0.0,,,,"Convert unit, standard",2.0
